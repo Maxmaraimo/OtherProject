@@ -1,0 +1,1208 @@
+Uri: https://cdn.intergient.com/1025196/74814/ramp_config.js
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\1025196\74814\ramp_config-4.js
+Content Type: application/javascript
+
+Uri: https://cdn.intergient.com/ramp_core.js
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\ramp_core-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\npm\bootstrap@5.3.2\dist\js\bootstrap.bundle.min-4.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.7.0.min.js
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\jquery-3.7.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://d1b3nz0b30jk2e.cloudfront.net/img/showrooms/STL.jpg
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\img\showrooms\STL-4.jpg
+Content Type: image/jpeg
+
+Uri: https://px.ads.linkedin.com/collect/?pid=5717308&fmt=gif&liSync=true
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\collect\index-1.htm
+Content Type: image/gif
+
+Uri: https://webassets.gatewayclassiccars.net/img/Gateway25Header.svg
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\img\Gateway25Header-4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.facebook.com/tr?id=1650562615266325&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\tr-1
+Content Type: text/plain
+
+Uri: https://www.gatewayclassiccars.com/css/v2/A.fonts.css+bootstrap.css,Mcc.rgC0cPNPKY.css.pagespeed.cf.Q_4bvPeedn.css
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\css\v2\A.fonts.css bootstrap.css,Mcc.rgC0cPNPKY.css.pagespeed.cf.Q_4bvPeedn-4.css
+Content Type: text/css
+
+Uri: https://www.gatewayclassiccars.com/css/v2/A.theme.css.pagespeed.cf.UafwF6q6GX.css
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\css\v2\A.theme.css.pagespeed.cf.UafwF6q6GX-4.css
+Content Type: text/css
+
+Uri: https://www.gatewayclassiccars.com/img/70x70xfeatured.png.pagespeed.ic.AhoHouFiWG.png
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\img\70x70xfeatured.png.pagespeed.ic.AhoHouFiWG-4.png
+Content Type: image/png
+
+Uri: https://www.gatewayclassiccars.com/img/70x70xs.png.pagespeed.ic.QfeB395jvl.png
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\img\70x70xs.png.pagespeed.ic.QfeB395jvl-1.png
+Content Type: image/png
+
+Uri: https://www.gatewayclassiccars.com/img/v-loading.gif.pagespeed.ce.Co1XKYI4Te.gif
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\img\v-loading.gif.pagespeed.ce.Co1XKYI4Te-4.gif
+Content Type: image/gif
+
+Uri: https://www.gatewayclassiccars.com/img/xfavicon-16.png.pagespeed.ic.4i7mKmRSX0.png
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\img\xfavicon-16.png.pagespeed.ic.4i7mKmRSX0-4.png
+Content Type: image/png
+
+Uri: https://www.gatewayclassiccars.com/img/xfavicon-180.png.pagespeed.ic.WGD0mUmJXz.png
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\img\xfavicon-180.png.pagespeed.ic.WGD0mUmJXz-4.png
+Content Type: image/png
+
+Uri: https://www.gatewayclassiccars.com/img/xfavicon-32.png.pagespeed.ic.Cj-eSfPPXv.png
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\img\xfavicon-32.png.pagespeed.ic.Cj-eSfPPXv-4.png
+Content Type: image/png
+
+Uri: https://www.gatewayclassiccars.com/inventory
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/10
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\10.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/100
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\100.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/101
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\101.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/102
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\102.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/103
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\103.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/104
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\104.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/105
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\105.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/106
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\106.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/107
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\107.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/108
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\108.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/109
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\109.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/11
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\11.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/110
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\110.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/111
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\111.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/112
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\112.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/113
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\113.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/114
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\114.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/115
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\115.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/116
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\116.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/117
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\117.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/118
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\118.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/119
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\119.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/12
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\12.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/120
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\120.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/121
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\121.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/122
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\122.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/123
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\123.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/124
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\124.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/125
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\125.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/126
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\126.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/127
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\127.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/128
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\128.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/129
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\129.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/13
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\13.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/130
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\130.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/131
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\131.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/132
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\132.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/133
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\133.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/134
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\134.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/135
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\135-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/14
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\14.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/15
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\15.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/16
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\16.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/17
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\17.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/18
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\18.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/19
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\19.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\2-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/20
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\20.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/21
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\21.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/22
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\22.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/23
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\23.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/24
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\24.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/25
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\25.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/26
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\26.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/27
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\27.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/28
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\28.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/29
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\29.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\3-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/30
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\30.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/31
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\31.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/32
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\32.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/33
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\33.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/34
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\34.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/35
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\35.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/36
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\36.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/37
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\37.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/38
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\38.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/39
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\39.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\4-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/40
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\40.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/41
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\41.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/42
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\42.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/43
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\43
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/44
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\44.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/45
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\45.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/46
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\46.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/47
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\47.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/48
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\48.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/49
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\49.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/50
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\50.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/51
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\51.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/52
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\52.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/53
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\53.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/54
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\54.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/55
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\55.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/56
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\56.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/57
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\57.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/58
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\58.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/59
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\59.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/60
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\60.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/61
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\61.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/62
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\62.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/63
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\63.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/64
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\64.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/65
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\65.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/66
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\66.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/67
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\67.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/68
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\68.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/69
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\69.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/70
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\70.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/71
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\71.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/72
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\72.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/73
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\73.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/74
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\74.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/75
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\75.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/76
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\76.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/77
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\77.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/78
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\78.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/79
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\79.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/8
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\8.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/80
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\80.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/81
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\81.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/82
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\82.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/83
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\83.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/84
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\84.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/85
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\85.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/86
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\86.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/87
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\87.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/88
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\88.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/89
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\89.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/9
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\9.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/90
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\90.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/91
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\91.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/92
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\92.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/93
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\93.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/94
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\94.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/95
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\95.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/96
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\96
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/97
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\97.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/98
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\98.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/99
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\99.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/atl
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\atl-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/atl/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\atl\2-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/atl/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\atl\3-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/atl/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\atl\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/atl/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\atl\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/atl/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\atl\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/atl/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\atl\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/atl/8
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\atl\8.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/atl/9
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\atl\9-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/cha
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\cha-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/cha/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\cha\2-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/cha/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\cha\3-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/cha/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\cha\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/cha/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\cha\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/cha/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\cha\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/cha/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\cha\7-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/chi
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\chi-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/chi/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\chi\2-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/chi/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\chi\3-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/chi/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\chi\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/chi/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\chi\5-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/den
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\den-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/den/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\den\2-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/den/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\den\3-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/den/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\den\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/den/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\den\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/den/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\den\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/den/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\den\7-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/det
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\det-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/det/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\det\2-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/det/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\det\3-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/det/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\det\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/det/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\det\5-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/dfw
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\dfw-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/dfw/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\dfw\2-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/dfw/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\dfw\3-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/dfw/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\dfw\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/dfw/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\dfw\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/dfw/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\dfw\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/dfw/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\dfw\7-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ftl
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ftl-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ftl/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ftl\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ftl/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ftl\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ftl/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ftl\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/hou
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\hou-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/hou/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\hou\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/hou/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\hou\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/hou/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\hou\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/hou/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\hou\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/hou/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\hou\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/hou/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\hou\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/kcm
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\kcm-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/kcm/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\kcm\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/kcm/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\kcm\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/kcm/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\kcm\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/kcm/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\kcm\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lou
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lou-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lou/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lou\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lou/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lou\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lou/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lou\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lou/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lou\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lvs
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lvs-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lvs/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lvs\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lvs/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lvs\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lvs/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lvs\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lvs/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lvs\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lvs/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lvs\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lvs/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lvs\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/lvs/8
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\lvs\8.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/mwk
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\mwk-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/mwk/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\mwk\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/mwk/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\mwk\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/mwk/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\mwk\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/mwk/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\mwk\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ndy
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ndy-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ndy/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ndy\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ndy/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ndy\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ndy/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ndy\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ndy/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ndy\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/nsh
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\nsh-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/nsh/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\nsh\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/nsh/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\nsh\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/nsh/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\nsh\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/nsh/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\nsh\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/nsh/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\nsh\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/nsh/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\nsh\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ord
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ord-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ord/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ord\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ord/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ord\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ord/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ord\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ord/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ord\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ord/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ord\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/ord/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\ord\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/phy
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\phy-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/phy/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\phy\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/phy/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\phy\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/phy/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\phy\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/phy/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\phy\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/phy/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\phy\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/phy/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\phy\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/phy/8
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\phy\8.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/phy/9
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\phy\9.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/san
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\san-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/san/10
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\san\10.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/san/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\san\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/san/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\san\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/san/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\san\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/san/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\san\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/san/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\san\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/san/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\san\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/san/8
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\san\8.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/san/9
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\san\9.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/sct
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\sct-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/sct/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\sct\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/sct/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\sct\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/sct/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\sct\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/sct/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\sct\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/sct/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\sct\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/sct/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\sct\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/sct/8
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\sct\8.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/stl
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\stl-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/stl/10
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\stl\10.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/stl/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\stl\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/stl/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\stl\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/stl/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\stl\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/stl/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\stl\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/stl/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\stl\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/stl/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\stl\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/stl/8
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\stl\8.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/stl/9
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\stl\9
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tpa
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tpa-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tpa/10
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tpa\10.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tpa/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tpa\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tpa/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tpa\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tpa/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tpa\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tpa/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tpa\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tpa/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tpa\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tpa/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tpa\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tpa/8
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tpa\8.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tpa/9
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tpa\9.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tul
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tul-1.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tul/2
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tul\2.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tul/3
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tul\3.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tul/4
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tul\4.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tul/5
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tul\5.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tul/6
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tul\6.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/inventory/tul/7
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\inventory\tul\7.html
+Content Type: text/html
+
+Uri: https://www.gatewayclassiccars.com/lib,_counterup,_counterup.min.js+geo_scripts.js.pagespeed.jc.rllEnMVRsC.js
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\lib,_counterup,_counterup.min.js geo_scripts.js.pagespeed.jc.rllEnMVRsC-1.js
+Content Type: application/javascript
+
+Uri: https://www.gatewayclassiccars.com/main-v2.js
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\main-v2-1.js
+Content Type: text/javascript
+
+Uri: https://www.gatewayclassiccars.com/manifest.json
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\manifest-1.json
+Content Type: application/json
+
+Uri: https://www.playwire.com/hubfs/Powered-by-Playwire-Badges/Ads-Powered-by-playwire-2021-standalone-small-white-300px.png
+File Name: C:\Downloaded Web Sites\www.gatewayclassiccars.com\hubfs\Powered-by-Playwire-Badges\Ads-Powered-by-playwire-2021-standalone-small-white-300px-4.png
+Content Type: image/png
+
