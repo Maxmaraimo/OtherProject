@@ -1,0 +1,1424 @@
+Uri: http://begetbg5.beget.tech/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/вакансии/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\вакансии\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/вход/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\вход\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/исследования/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\исследования\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/кабинет/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\кабинет\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/каталог/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\каталог\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/клиентами/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\клиентами\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/клиентам/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\клиентам\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/контакты/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\контакты\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/корзина/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\корзина\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/крточка/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\крточка\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/металлов/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\металлов\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/оплата/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\оплата\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/регистрация/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\регистрация\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/смена/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\смена\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/comments/feed/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://begetbg5.beget.tech/feed/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://begetbg5.beget.tech/logout/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\logout\index.htm
+Content Type: text/html
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/astra-sites/inc/lib/onboarding/assets/dist/template-preview/main.js?ver=06758d4d807d9d22c6ea
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\astra-sites\inc\lib\onboarding\assets\dist\template-preview\main.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.19.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.19.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.19.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.19.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.20.3
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.20.3
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.3
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.20.3
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.20.3
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.20.3
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.20.3
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/wpforms-lite/assets/css/frontend/classic/wpforms-base.min.css?ver=1.8.7.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\wpforms-lite\assets\css\frontend\classic\wpforms-base.min.css
+Content Type: text/css
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\wpforms-lite\assets\images\submit-spin.svg
+Content Type: image/svg+xml
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js?ver=1.8.7.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\wpforms-lite\assets\js\frontend\wpforms.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.7.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js?ver=1.8.7.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\wpforms-lite\assets\js\share\utils.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.19.5
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.6.9
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: http://begetbg5.beget.tech/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.6.9
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2021/11/logo-urban-nest-115x41.png
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2021\11\logo-urban-nest-115x41.png
+Content Type: image/png
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2021/11/logo-urban-nest.png
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2021\11\logo-urban-nest.png
+Content Type: image/png
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-15.12.33-1024x566.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-15.12.33-1024x566.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-15.12.33-300x166.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-15.12.33-300x166.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-15.12.33-768x424.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-15.12.33-768x424.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-15.12.33.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-15.12.33.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-19.18.28-247x300.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-19.18.28-247x300.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-19.18.28-768x934.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-19.18.28-768x934.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-19.18.28-842x1024.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-19.18.28-842x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-19.18.28.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-19.18.28.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-19.29.22.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-19.29.22.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-19.41.39.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-19.41.39.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-19.41.44.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-19.41.44.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-19.41.47.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-19.41.47.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-19.47.38.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-19.47.38.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-20.38.00-1024x496.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-20.38.00-1024x496.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-20.38.00-300x145.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-20.38.00-300x145.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-20.38.00-768x372.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-20.38.00-768x372.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-30-20.38.00.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-30-20.38.00.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.35.31-150x150.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.35.31-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.35.31.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.35.31.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.37.31-150x150.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.37.31-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.37.31.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.37.31.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.37.34-150x150.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.37.34-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.37.34.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.37.34.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.37.37-150x150.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.37.37-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.37.37.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.37.37.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.57.36-1024x598.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.57.36-1024x598.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.57.36-300x175.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.57.36-300x175.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.57.36-768x448.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.57.36-768x448.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-13.57.36.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-13.57.36.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.04.00-166x300.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.04.00-166x300.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.04.00-565x1024.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.04.00-565x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.04.00.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.04.00.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.05.23-166x300.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.05.23-166x300.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.05.23-565x1024.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.05.23-565x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.05.23.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.05.23.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.05.26-166x300.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.05.26-166x300.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.05.26-565x1024.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.05.26-565x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.05.26.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.05.26.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.05.31-166x300.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.05.31-166x300.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.05.31-565x1024.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.05.31-565x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-14.05.31.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-14.05.31.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.17.09-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.17.09-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.17.09.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.17.09.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.17.14-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.17.14-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.17.14.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.17.14.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.26-300x62.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.26-300x62.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.26.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.26.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.29-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.29-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.29.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.29.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.32-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.32-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.32.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.32.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.35-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.35-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.35.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.35.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.37-300x62.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.37-300x62.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.37.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.37.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.40-300x62.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.40-300x62.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.40.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.40.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.42-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.42-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.42.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.42.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.45-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.45-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.45.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.45.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.48-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.48-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.48.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.48.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.51-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.51-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.51.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.51.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.54-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.54-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.54.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.54.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.57-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.57-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-15.20.57.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-15.20.57.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-18.23.47-300x41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-18.23.47-300x41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-18.23.47.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-18.23.47.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.25-300x45.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.25-300x45.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.25.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.25.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.31-300x45.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.31-300x45.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.31.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.31.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.35-300x45.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.35-300x45.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.35.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.35.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.38-300x45.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.38-300x45.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.38.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.38.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.41-300x45.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.41-300x45.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.41.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.41.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.49-300x45.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.49-300x45.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.49.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.49.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.52-300x45.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.52-300x45.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-19.25.52.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-19.25.52.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.27-300x51.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.27-300x51.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.27.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.27.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.32-300x51.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.32-300x51.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.32.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.32.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.35-300x77.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.35-300x77.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.35.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.35.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.37-300x51.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.37-300x51.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.37.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.37.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.40-300x51.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.40-300x51.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.40.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.40.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.42-300x51.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.42-300x51.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.29.42.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.29.42.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.32.08-195x300.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.32.08-195x300.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.32.08-666x1024.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.32.08-666x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.32.08-768x1182.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.32.08-768x1182.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.32.08.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.32.08.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.38.20-1024x46.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.38.20-1024x46.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.38.20-1536x68.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.38.20-1536x68.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.38.20-300x13.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.38.20-300x13.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.38.20-768x34.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.38.20-768x34.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.38.20.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.38.20.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.49.40-1024x737.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.49.40-1024x737.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.49.40-300x216.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.49.40-300x216.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.49.40-768x553.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.49.40-768x553.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-21.49.40.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-21.49.40.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.28.06-300x64.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.28.06-300x64.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.28.06.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.28.06.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.28.11-300x64.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.28.11-300x64.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.28.11.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.28.11.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.28.15-300x64.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.28.15-300x64.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.28.15.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.28.15.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.28.17-300x64.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.28.17-300x64.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.28.17.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.28.17.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.31.49-300x64.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.31.49-300x64.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.31.49.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.31.49.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.32.28-300x36.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.32.28-300x36.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.32.28.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.32.28.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/03/2024-03-31-23.32.31.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\03\2024-03-31-23.32.31.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/04/2024-04-01-23.40.13-1024x259.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\04\2024-04-01-23.40.13-1024x259.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/04/2024-04-01-23.40.13-300x76.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\04\2024-04-01-23.40.13-300x76.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/04/2024-04-01-23.40.13-768x194.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\04\2024-04-01-23.40.13-768x194.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/04/2024-04-01-23.40.13.jpg
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\04\2024-04-01-23.40.13.jpg
+Content Type: image/jpeg
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/04/3b58314f4ae340439d612743519b05b5-300x165.png
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\04\3b58314f4ae340439d612743519b05b5-300x165.png
+Content Type: image/png
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/04/3b58314f4ae340439d612743519b05b5-768x423.png
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\04\3b58314f4ae340439d612743519b05b5-768x423.png
+Content Type: image/png
+
+Uri: http://begetbg5.beget.tech/wp-content/uploads/2024/04/3b58314f4ae340439d612743519b05b5.png
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-content\uploads\2024\04\3b58314f4ae340439d612743519b05b5.png
+Content Type: image/png
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-includes/js/wp-util.min.js?ver=6.4.3
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-includes\js\wp-util.min.js
+Content Type: application/x-javascript
+
+Uri: http://begetbg5.beget.tech/wp-json/
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25b2%25d0%25b0%25d0%25ba%25d0%25b0%25d0%25bd%25d1%2581%25d0%25b8%25d0%25b8%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25b2%25d0%25b0%25d0%25ba%25d0%25b0%25d0%25bd%25d1%2581%25d0%25b8%25d0%25b8%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25b2%25d1%2585%25d0%25be%25d0%25b4%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25b2%25d1%2585%25d0%25be%25d0%25b4%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25b8%25d1%2581%25d1%2581%25d0%25bb%25d0%25b5%25d0%25b4%25d0%25be%25d0%25b2%25d0%25b0%25d0%25bd%25d0%25b8%25d1%258f%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25b8%25d1%2581%25d1%2581%25d0%25bb%25d0%25b5%25d0%25b4%25d0%25be%25d0%25b2%25d0%25b0%25d0%25bd%25d0%25b8%25d1%258f%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25b0%25d0%25b1%25d0%25b8%25d0%25bd%25d0%25b5%25d1%2582%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25b0%25d0%25b1%25d0%25b8%25d0%25bd%25d0%25b5%25d1%2582%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25b0%25d1%2582%25d0%25b0%25d0%25bb%25d0%25be%25d0%25b3%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25b0%25d1%2582%25d0%25b0%25d0%25bb%25d0%25be%25d0%25b3%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25bb%25d0%25b8%25d0%25b5%25d0%25bd%25d1%2582%25d0%25b0%25d0%25bc%25d0%25b8%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25bb%25d0%25b8%25d0%25b5%25d0%25bd%25d1%2582%25d0%25b0%25d0%25bc%25d0%25b8%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25bb%25d0%25b8%25d0%25b5%25d0%25bd%25d1%2582%25d0%25b0%25d0%25bc%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25bb%25d0%25b8%25d0%25b5%25d0%25bd%25d1%2582%25d0%25b0%25d0%25bc%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25be%25d0%25bd%25d1%2582%25d0%25b0%25d0%25ba%25d1%2582%25d1%258b%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25be%25d0%25bd%25d1%2582%25d0%25b0%25d0%25ba%25d1%2582%25d1%258b%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25be%25d1%2580%25d0%25b7%25d0%25b8%25d0%25bd%25d0%25b0%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d0%25be%25d1%2580%25d0%25b7%25d0%25b8%25d0%25bd%25d0%25b0%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d1%2580%25d1%2582%25d0%25be%25d1%2587%25d0%25ba%25d0%25b0%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25ba%25d1%2580%25d1%2582%25d0%25be%25d1%2587%25d0%25ba%25d0%25b0%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25bc%25d0%25b5%25d1%2582%25d0%25b0%25d0%25bb%25d0%25bb%25d0%25be%25d0%25b2%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25bc%25d0%25b5%25d1%2582%25d0%25b0%25d0%25bb%25d0%25bb%25d0%25be%25d0%25b2%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25be%25d0%25bf%25d0%25bb%25d0%25b0%25d1%2582%25d0%25b0%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d0%25be%25d0%25bf%25d0%25bb%25d0%25b0%25d1%2582%25d0%25b0%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d1%2580%25d0%25b5%25d0%25b3%25d0%25b8%25d1%2581%25d1%2582%25d1%2580%25d0%25b0%25d1%2586%25d0%25b8%25d1%258f%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d1%2580%25d0%25b5%25d0%25b3%25d0%25b8%25d1%2581%25d1%2582%25d1%2580%25d0%25b0%25d1%2586%25d0%25b8%25d1%258f%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d1%2581%25d0%25bc%25d0%25b5%25d0%25bd%25d0%25b0%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F%25d1%2581%25d0%25bc%25d0%25b5%25d0%25bd%25d0%25b0%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2Flogout%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/oembed/1.0/embed?url=http:%2F%2Fbegetbg5.beget.tech%2Flogout%2F&format=xml
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1437
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1437
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1529
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1529
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1547
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1547
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1588
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1588
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1656
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1656
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1689
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1689
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1713
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1713
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1746
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1746
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1781
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1781
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1815
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1815
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1824
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1824
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1958
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1958
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1963
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1963
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1970
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1970
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1976
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1976
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-json/wp/v2/pages/1981
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-json\wp\v2\pages\1981
+Content Type: application/json
+
+Uri: http://begetbg5.beget.tech/wp-login.php?action=lostpassword&redirect_to=%2F%25D0%25B2%25D1%2585%25D0%25BE%25D0%25B4%2F
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\wp-login.php.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400%2C|Montserrat:700%2C&display=fallback&ver=4.6.9
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=cyrillic&ver=6.4.3
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzc.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzc.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOkCnqEu92Fr1Mu51xMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc9.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc9.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc9.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://s3-alpha-sig.figma.com/img/03b9/33ee/fab5262fa104cfa2d4666a3ab58fa04c?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OQzxBXcjql~Lz866nqA9IG-yMKDgJwUan6FMz0lO9VpyGafL~ON81o1wFWc90TLBSU2QLN6cLyVDRz0YLovICrupdQBV~i~kACLXe-DHGCUAZOq5IchE7jdNECno4X7Ul4migZe63L2npgEc-KZj~6qcVBuDJ5swEH22ObEWFtMN8lmx4yi4XYzlPbGRcSDBvVcN0mpsgoUrDta8JBjGZBIFIHHu1mP7KWO0Vffd8D8nrUOcIT24jKdJgCIISVQTQtlVKPm-G5QtaOxATZh-PgLUg7Y-scvvu5aotFY5Z2lW3P1lHvolRhdH1TexTQ5OlYU~k7ntr31xQjqgd1uQng__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\03b9\33ee\fab5262fa104cfa2d4666a3ab58fa04c
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/0502/1b52/d90e08def9894b05e4300cb1516ff61d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=T-TWc3szr2ZTONd7ZS9rjszrAw~pyT7ZACUt0Qiy9SQ3lUV6~M~5KjBj33vfysMXZOnQhfBZMCDg32oGY1SOO5EtX6PtEitvba1IK~aXfkbgSWlnEo1sN7YqIfbBCrOQOQMzY-9firiAEFwLV2~8zZdWWMlGbTTMV81k1aYCkJL155kk2Rhw9WUTZDZRM2dhG0vVq2oWbZAgQsEhMrJHt4fqyJz8y9WxE5c2NLhkeWmfpaVxgf5SPYVDobeVG8Iy7xIL5wR8TZ4zgy2az4aAKh~vVHOakwy6laKQnF5IYuFFZzaNWmmDTDAxviu925vrjVqs04f62z9NBbT7ngFqKg__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\0502\1b52\d90e08def9894b05e4300cb1516ff61d
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/06ab/771f/0025ebb05c861a62f44dab0a3987ce23?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JCecQCQmp7qilyIWz9fbj-T6VEBfwibuGAhLhDuiMrjdA7enk1~VURyX6St4Sw9H92wzrzwIbyrQmtkYWX5wQ3cpNdWO-OvE5dFHtMivOGAf1Gmxoc0LqfB6M4y8ApX3gkFR0HQjwz-F9o7chCwK8CYYXmAuv6n53zZLDDfy1mLSAOIjdDoc-37Pg1JRq~UeYpQeaU2rDlGX6xeKAbUzd6W-j3LORJUrTMb0bbzeJOqdl5u8umyhMJ5Uzs23dpx9ujQPC1eiYv8BTjILAEofBfyF9tVfzAVIQ4bqOpAJm7do5bb-3NZkyPUAKXH58CXDQKhePp9G566ktCOUgHrTJw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\06ab\771f\0025ebb05c861a62f44dab0a3987ce23
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/1123/7e65/e3291b86d69d74652e1b8add2680c337?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AlozsabwbEhwvU9H0BeOoUzLbkHaUcVUrIYxoociWU3kM1cd-qOQl6GXmeRXzKtEwss6t-1Ftdci1y7FYtTLRDse-SNhNJpB8~qyTY1z0CXewilYJhAMrxa3NgP4v22C9HCIzV4wkEqXN18ed5rA2EZfWWGmyc8j2QrpRY0d-sx2fQBV165SsVIZ2n5p~oUPvCg8oC~S4oS8EvobeRlbHj8p9j~qvgA9-~obOjEIUZR9DRSeIdzMkbnQeeVfTcRBQoJfk0HejluTxIKa-ceGzSutS7mk0BhQDlUJd9m3Eez8esQxz6N-LwhIQw0Vw0t8i-3-5aVmIKScKE7XBBWfRw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\1123\7e65\e3291b86d69d74652e1b8add2680c337
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/1159/e09f/bfa03b63f071490e6df50c7c6a317034?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=n1MTfkD586kz4bIkQwhauDSOE9tMc8ObxB6fZYto9N0darrYgWOOck~KDnz5cWJ23-6YK9RMeprfXW9nZbpvY8HhdEw7rYv2behqnwZm65Th~hOYowM85uDAlZ24gqKOnbn9TQehliuf9RVA-VW1OkscqQahosQiDgNdy7DL7SZ0LSOUN~dUFp~SVjiG5ajHEM2Wv2muWXAoOqQ5bope~84cM3uc4Lo5MkwRrGNH1a-COunX4vaglv9o1YeQvFYkWUnTGUuIhMbaPSwaUA-DGddr8qJbjNVzWTfHQ9eDFNyef-GXPzG5sUtYoPugnoryDEWkAj2vBtgEinc2bsP65A__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\1159\e09f\bfa03b63f071490e6df50c7c6a317034
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/13e1/0f12/9faf9b2e4ff1521e36fcadeb7c3e3cb9?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=c4-CcHAqcEo-mDhyk1Gbp~8dAaBsBrQWNYPzVTuRT4ZVRTEL-ar8U9eaklJbGFXcu4AZIxxvj3uxwHLjBa0JO~nPts9LG-~s4wJFGYu80EBr09duBpYdfsJVswMb-Wrt~HfX2HWQBLZLx4knGvhrigniG3Q4SvU6iMnlYbW~l~MmBPo2i53leRBUHlHPAOHIRC8M2gy-eOkIpRLo9nR9Aw9KEikp-rXX4bmnIHfG9e21LU-azQk4JtcW~JYUHGr4~6W8kSJOjT4Bu63NelcgQdFyrzywHA3sGx9B07PqpuLIbs-J5eLtY1AvLp66eKrniICqP2feiq-MaCOnDHgTmQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\13e1\0f12\9faf9b2e4ff1521e36fcadeb7c3e3cb9
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/1d01/6380/df9580f310ae996e6ac7386077b64619?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TL4je75LAJDmA2smjRVC7UKcrW048h6Qumil6iwrH5WLQLyTHB1O3W7VRs8Ukg3wmOxDDR-AulZVGre0byQMFIh47jJHdnDhmveAZ0L57CUZlyCu6lu5PtEB7FCJ47glF4XdSN~Hw5e-TggS0I7lhwjOBP5xDhJaALYJFkr2f1xXfD-Ga8I-9BTdIz1PkQnLN7NX9KygEQSF19WybhqrxfzGfLpWfDtJ6q8CqjUyVt4Dwxe3pNlB~Rav3exHLE2lsQ6Xm9shr6a575qHh7S~gMnEn-ccyP~I6MAvJ~jXZFm3fqi3yppOtwtj44uvutslbRwIYYQ0~hWBorr8WW~k~g__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\1d01\6380\df9580f310ae996e6ac7386077b64619
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/1fea/852b/65a5b882bcde75420dcd77a4c229667d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LebfDlOJVYdyK7hUXKp6L9JNlHZsvU7UWKtgPCux3ytK6a3NYELidNWEs9idkliHrR53PzSDWIRcG9NZ2pqVb04ErDSuUpfA23IWoEg1MfhmwmjY6W4k3KzB~3FLacUPSGGRPFwvNX-mXrXIZddf8NhRKZBTS-7SimHkyevDJFtOsmMJAR7ytdNzRGWSHOzuw4NRxngj25VJmkmSijYvGkElotq7GciYFpqUsfXEsy-17tAO5nRxBxwn-eExzO2sUS4SwwSWa6iDkA1SkJXPTo3~nlB4Ot5SIpZa30varUaiXyckJZWJJl2-YvDYdfaaGH~ouKHbmon~5CxCWpucGA__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\1fea\852b\65a5b882bcde75420dcd77a4c229667d
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/21a0/96d9/d309dadbd03dad1ab0d77e45ffe44bf7?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bXDrW6W-~moJcqJOCZ0R~SrgrqTNZW3sck8ptBnAYNvuUIVBIr-7uAn7FGX~cCboH6nIvuKlLpBc2uBV0nHo6P2Nze1HD9drO96fnp5CtcB-0V3w5aLSMqK3WKZ2-7Fog~ftkPP3q7ZAA-o0w~-Y1H9jneU78oketS~wh0KcEWM7ldkdem8J6aVU3aMZsPxSvIfAHXmHaJMSt1C7wezVo--xi81A1zqeETJh7UcaSfbcwRaUjF3xgqiOWOIvC50ZNBfn9QGpVkcPb4zWz0fdJHT27YkQ28kojm~6i3R9Ss-KuSf8GThCl7CD4JiZmWyUB62CVTq3p2xPCv9EsRJXmQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\21a0\96d9\d309dadbd03dad1ab0d77e45ffe44bf7
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/221f/13c6/e940d8e78d0cf188a04bbfb80bb0f499?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=GHbybq6c6waN08IQMRoICI5S77xYPiO6z~x9oMcCFuMJ5bzYHgOBnzYDVrPytVpS2r21WGd-aA32UGAct8z7r0Lh070RzaZiAUlvxVdWuwif6-KTKFk8bs9oOjTw2S~CC-4nDbDdQykOM96ISy8SD34HFV-oK7J5VdiwkQlIsHVCwhcGCOUwZFpJIqHPU~TddhQQCu2YsGGQ2SLWV3IIfevO8w6gt8Ls4GCCbGydnME2OEXur8G36eP8iwZob12r3AKqQGpvYbASr33h6ZbN-Hq~87UnpbcqMF0MKAvCbJ4ovxrZ0S73QzDXC-rx~tmmbf3d-aMt719OZNbz1jIVKw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\221f\13c6\e940d8e78d0cf188a04bbfb80bb0f499
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/23e1/c8b8/8d468a708f8cd9981d68a5f393fa8efc?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TQkWoANS-fmOlaA3avnVp1FRb~S5ZvSupCDFKo8Hvv4S1v~ZTMJ~N~ZgJtuI7Miy7yoj7-SYs74y-lmxiJZfUZk7SsK2WQm0a-nfxnYLtCMIJBCSQqKVQ8sDkblN61fMjbQ8reh71nTxCunyigyGIIEFBlA4scuq59Fs2-FReOVM4y9kXPVremQFCq7sQ8dtnCTtZzZJkHbF6H5hSQd0NENvkya6pMIaTBFlHXgOPPsriGE2CAtPT4NN7npOUSYXfnyjPh8hHVjKjjLblQUE-uoXokJiL4B0LJhJAssNqGw2-liF7xpqzKrySNWWjMnT6kuWxByX8VJLPkqDN1ZrYw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\23e1\c8b8\8d468a708f8cd9981d68a5f393fa8efc
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/2455/1a99/8102b5cde05b9659f696ec9449d0746b?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iouh3zrFsyqIFnhckHC1o0EtqOsgTldinppijERMSnXFOnDvkBg7TX31QXH9ThSBjqLYHLIPzNpkkF3hyERKXpLHsgq0MLdNdBvgIqmQC1ZL22UKoN8InblGK-L7kvNcOsA1coPCzM1c2AwVR5qmXgC2r7PdTZeag2TKarJmuWF5xtoVyWDSB7j0bqNGypIuT4I-h8zOj0xRYk4Vcc1dvqD5GV8Bcv~lvDXBZXgbnPBAkX2tBuQQ83j~Dnv3ZJUKA7krCyogeManSziRUXOMUh716X-JFerRKJ6U9AnSt8nftspmcwQkNo7zYciYvKvegBV-KC~9TAcDXnv-J7qGFw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\2455\1a99\8102b5cde05b9659f696ec9449d0746b
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/26c1/8c36/73b110d47a76ea1f3730a86aec1f61b6?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TXVFYCKUB8kR2z26C8jroNukpqI3X3LXE4j6ppkI-iErJV~FTNnRj7SEN7ynfaZi4CzcwsOeVtKBbgCDnmMbnouysXWBiKR3F13Sn8KwxtWy0GJZyUs2~Wvjli1peNGllzroXlW~UV9bcPYyH8D4AuvAHyfkTBSNcTiKBIcn5RzoHLq7BYfTIccvTHSzyM8Bhe0vVfdYbUdAFw23Ix2gLkbzHBWRv4eWrwuaHq8P1GADYG6a1c3q2U-qqIRlM6vW5~k6yirDg5-gElJRBqenOyJb-YynaecZnropkwLYAplFTZ-7fTrSY-nErsuKxty8MBb8TgEDFvT8KAhms0PaNg__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\26c1\8c36\73b110d47a76ea1f3730a86aec1f61b6
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/2b61/0f78/c4f7f1a44392bbfe6a7a4f838a355283?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RHLsc5Y-wvdK5ltFIiyAPGyadORdAk1JzKMO8Bz2VJR6hI6Fa2mmVjnQJkcsjayf5eD-GsnxasRqbM4~IVwuXJ8w0K-FT0r6JXds8cox~dZNPYTt5LeS~TeVSgLjqtnslUSU6gMJd5ZX6TC8hoTBqDGORcPq2XGNZyuviaXEwokP-2SrRiVm4I5gwTdVhI5084pcQ9PM6To7KUNdOpma4qUD5yHSFfG4nasaOXDeTY0D026MOjIPc2w8QnyfpwBFOeGZSOjiEVNTAKZeHQUQFDDWBp5TJEcx7-aLF8e8a8VTjgU~IU791EAN5R0IWilsAXnw7k7TY6so95BcCC0SCQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\2b61\0f78\c4f7f1a44392bbfe6a7a4f838a355283
+Content Type: image/gif
+
+Uri: https://s3-alpha-sig.figma.com/img/2bc6/53bf/1161b3bfc2282500e184ebb43beea178?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SBt95gkq~exFcgxiZWsjJBrF-wd6zIX1MVOR0SN7taebYY~tA6dU1aTuhfwKXTa50MDZLE0pGY75esle45lBYhj6kwrv~4cv4SblSxhMD8E7~RAXG0FPjezcBmrR39MUGQmT5pVbRk51gA0MGEz-08LLhmlFaHUEEn0kpTmsObBtc2nHOkyrJmuusVBL9JYMuxTDLTazLZ~ZCxcl9rtLFtf7soJd97cEayS4sYdw2LDSw-rVOgtzgvYFwYU-cqHIUUVuOWEX7jAwgtueDsp8JoGcsn77X1w~wUuSvyXuUhdUV1aGLE5WkpyuPD~BrYVRLNkkVUeJbeRnWfWw9JecYQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\2bc6\53bf\1161b3bfc2282500e184ebb43beea178
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/3354/1d20/6b66a823defa02ce06efea4ed0785c2e?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RlVznEizOUNmNTYkGjKLhOeEeXlHgvADJ8MFpJLiXRmtL2Kg4YQ6OLZKVWm9~BrKLy5FODVnFLdcVOEIvfhzN6XpjitCDCwQqwf-wYc5iDhQRSENd8X4by12R7RE~63VmYC~AitsbRuKlj9T3nboxmMllF9MOR6ejofQjVdlv38MnJjFkbSYrfE9RoKZM0lMtVisZYjSO9hU-MZYgBQtmym1KlSsDNgGhmiswNU9LQnQz~XzyewDRhdSyhPFy9gfsGR-k2~TwKaYeEDYPf2dWbvpWdSwfbx9snwKx7PaPjEUGcEX-56YlEfw~Lc6kxSdsszUkiTGN4VgC80mKmY0Vg__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\3354\1d20\6b66a823defa02ce06efea4ed0785c2e
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/39a7/5259/d9a17a93a9e43733c9af8ae8f340baee?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qmNw8HKrHI0CKS2cKSAJ4ShQF0~Mac5gTb6EJEA44VS3AoAY230TQRBljVj2mwAXHIr1qu~hLb11aH0OtR5XeLSmQjysG3nHMBcd4j9a01ALTbvKfsjeORoMdVxHF4laRwUsKaRhfLNZO7DwOM1I66O72Sp3YLKpe9QOXJPt8n10F0e2aZQofGVuqsv1ULz2V5K8L9Z6izrhHdB5neZUcajDjEYXt6Ti2aN5~0oZDtrh~-ji~G1KaSZyqv2CzxfZmcryuqUGRmpwP5S6y4deWv3RfIuO2sPPh6BMWsLx9onaW0Bb2TN4dVNjLYMikFd~ExPReTSONtQ8fyPBMUkX3Q__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\39a7\5259\d9a17a93a9e43733c9af8ae8f340baee
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/41de/ec62/bd94f945677ebdfb6c2b781102812e02?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ENQRx1UfLO~ZLLfBlkTHWVpqS~GN4UTG-M5u3XK0F-8sQSgQfFl463F3~heQtluGiOJd7HKWwJaOuI5XjQdf7QbvUygODPbJv-P8hmbec55szJb0djlLdaVnj6Xig8rsjT8X8~H4lCyvmTVhPuUIAclY0HtnRJg7PHGQvEbQHU3PJP719Bla~6k92r21oDQEWFQjKf2BWh6oWxkjKtGvan0qRyhT6JFuKPhyeo9ZSKVeoL6s5VQWHhMIoi1JVjb6zU25MA~h2LPAFBYY-nBj49zuZtg~1UmDFkkjCHZd7Uz4gxkTkqWfmtVbsAO1-~BA7zVBlzHPMPf9DebAa6i~Sg__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\41de\ec62\bd94f945677ebdfb6c2b781102812e02
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/442f/cb04/043ac69c745af4387af89702ad199420?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cWzazKN5nZkOjmhltbQNloJPgjS~7ANRk~K6S7ufS6twxsOarz5pAW6fjMMuWYrOYiLEpBTcJEYM3muBD8iF-vQvVbEo5Luwgyh~27d6CT1xlELCLQQ12g56tJzVMUSyn6zcJb8sxloMFwOjC~2fELnhMa7gK9G3u1fIBksq~xPDXzJj70GtC9avRJSWiV9zpLP0S11gyEZm6uYCqlHtoLQthn3cJr7WWri1IZ78DQ11XZXCdg9kouGG0ZW5w4Wp9E0FGK4ZoDmf-H~NSJAj1HC39ZjI9qAxHf1SvdGJmxrMMSQuS-06RkjxkJfJrYsi5YI8kBa6t6T2WgBrO1jSgw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\442f\cb04\043ac69c745af4387af89702ad199420
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/4839/8947/683d0d7d00a941c094601a3c4f888a85?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dUbLTvAQAuVL9ueXB3YzaL1AO2btg9B-BuAlkyEkRjir1CVNbvy3XqSCVikrsg6vTvZ9ANpbKfmMB~A8mCTG2Dk5viZPKxbfTW4oFlpM5CcfTrAHa8Nj9iupWcQxxkwwRjNg3oZkcsGT8Qv1-JcsBIKiyc~mmHSN4Q6mBUrP3~icKtxwioYROfZvMRHawIE25bYR43TVG1HRXu3OFZ6TtgheEALdYXf0tDjxi1uKdplXQyHoANhiBWSdUbdkGzyZjY956htmo890hQTgKx3ecEStPjQpFVd92jbpnS5BjcCZog1QFDto5YZxC9BqVg-HVzOasRtEABQmPYr8wcgrxQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\4839\8947\683d0d7d00a941c094601a3c4f888a85
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/4a51/abf2/90ee6dcdb31d5f623776a94b32760336?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Sv3d87FMaBEBCjq1G1-grV2xQHAN2PiFHj4aDoYaOXfyfPyKe-ueGxuI33UovKEZWaMKVhuG8yM2eM18JIRqDyM17GnQcLJxi9doJihcZAnmYiODeu9JeOtnmiG9EDs4A7JhEBZD39ahWFAW7WBxTyAvhWLGBSqqnctT~XTgFyknBSDR4JJMZ4OXLe3CZlH83k~aqXdJgQtBl2XsKPjUEgiVGf4NrkyxieWxMCl9mKxE5~wQ-llcLAQLF7RjqVBp1Y0xOUFOfGOjLg6evxRLegl2MP0IUCBltgJszNUi62XabEfVPycAQ-NTupLQ-eF7EP~qzdkhIPtu35ekxPJiTw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\4a51\abf2\90ee6dcdb31d5f623776a94b32760336
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/4aa6/e98f/153ae3dac71d8cb9d6e267ee43b2a770?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=nVOCmIFg4iaFiWoovJ9dSEFvF-fqkDbEzr6g7kDTPRpN3otT7Jo15HFji779FV~SKi--HdbApKF~jsHwJvNe-0JJ4eapRhvtI2DU8Rt0vkhE9BwRw61RUMSz2m3E2xZC1f31~TVGOOmghnyFK9L9F6GuOZgRhYGzWI86Vw-5CGYmMF85eOFj7lUiQULw2W1Oe18kuKeIkpGm1zC8fPq2nKbba895K-SrQ15E2lRsnLp6gkb6tCj1X1FWsT~VZoxVcjiPDw4EXuTWD12E6q0qAWM4HKN67hLD8UHuXypG2GuQIIiuMJ0PdlukO4dtyPLe~1uocKTjj6itoh71BrNbZQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\4aa6\e98f\153ae3dac71d8cb9d6e267ee43b2a770
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/50b9/2e5b/40b00b93aded5642fd071f2d30e50b2f?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qs~PKcp77qpLbhwH3iM~wk1s-XaxHZH1oARM2BI8KpvLZ06TM3wxYxZ8bedqK6zZwFAu5fEy~Pt~Qt-cB1Ij~uIcKdvTmgca50UTnRgMZK6NJGw6jfFCmkmxgQBX-jMbRoaqFSDpVB6vM-ZJY6F8yv9X5P3tYymz0xj11sQenXTv0NpO3Q7YgZL3VWaagOYRYsRtSlFgL8YYhrYTPvkHkPA-Xau35FHhurOL3UkbLlKZJ0CMxEb0woAJ8IMukyKb8sJjSevTT2kU2q-3FXQrygkHDN3UTXKnZGomgeKrDsoUE4eRMPXX37kGgPUABzhYbG-aTHTaVfOpEZyknKBu9A__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\50b9\2e5b\40b00b93aded5642fd071f2d30e50b2f
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/5b45/6ec0/b58b4e02e172aee28d284662d529e17b?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TTyUTKVCe7P4Yr8i3nF6mDjFQKltKGE-cff3g5FrHlctvkfyhDZ5D75kJnhVL15y9eT6OZYhsSgEjCZaRr2VA8p-qOjmVuzZxUgos29kqJ9cysWdsqDyavwuYrVpbl9lTzS5F6C7BzHHZwv3FTnnF2xwPTS6eTkJvLVelJKQ9i-8xwbWVsLBLdrYZ01aY5lXzSWI6xE7cEdhVslZn4RqbgZKA3sRd--2Abg9yHV2EAfzJX~yl6yTRdOnR8bAeaK7vbkhx4CFLjB7uVrjqK0m2wuzzEYsOjydr~h2nKp1speZtru7UuCDGwq76WhHhKuvCbkSU0KtG0EikqlHkRkZ0g__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\5b45\6ec0\b58b4e02e172aee28d284662d529e17b
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/5dbb/8d2d/94aabc045083cc79c68bb99b71ea675b?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X-1q-lvUJ0PHhnOXNfAmbQyufeQDLCGHwVbJ-dIfrPXGt~RJ7rbGaP2DJnOR0JOCGe7BdlcIETWNM-bx57H3cVVEQhkI-7zTgm9DldFrn4bl79zqgv26JYcUUXg8x5nuh04CwdP~PSiHlIKchVRiiIq0QFoja-SKEU5P05N4MeOA~ymURZLhK7VQWflTqASxb1DYrLYttlv0JJL8h62bOy6RDpT75799IhmoHBQXuAjDqSEIXgVwreCKnTU1Og3p825DQw2WTxWlFW3SUcfEl9tPudnTseRp1CliU-6N5jF0vNDVteEj8mUMlWyWeGXV2Zq~wM2rHft2MXwKF2GNBg__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\5dbb\8d2d\94aabc045083cc79c68bb99b71ea675b
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/6028/2156/ec29ff871e43a397105eb5ccd1515308?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WoelmE~w36nC58VfKU5RNJKJzn410vpg-YozGInzECpo-Z8tjigmDwd81v4og7mNEgWL-MIqw0xzHC6xuHmbPpBYC7KDyReuVK-ztPG4LTZsQSH34TG5AX~WITuzDHW0M0j9s7S6bvDNXF4-Fhb7r9SVSvSZvja96MPkY4IRt3c5D5GDol2ts6bucTtDQ3TkylllcfCHNvPTiDbwiXCoP~p1TbecE52y802fuO-7ruWNyK2SZO40rkGcUptbewKBaDZvV8Xs6iLBFhKd0r0~OgZ0QlrQLm169qIaGfIjJ0KbEo9zlhs~CfpeK4LP9-ARcZNElRGc2Gf1LZ7gb7FB9g__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\6028\2156\ec29ff871e43a397105eb5ccd1515308
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/641c/2ca1/4fc25b7418b62a2bf550598cea2bc66c?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hdSK4DAZVdo4zF3sxXYz5D1gJebmGVSKPK55XmHqxQrBOAdjZsT3gb0hZfKin9VYLyw7vdygSrFYE3n329yITTjYLgjNrK3cZzj3bNXhY0l8Ei6HCvoM94fjp~XmY7I~iuXbJHsoxRkPm9GyQalsYb-P237Py6~DCpO~eHcnxC1QTBDa5lW5qyWlycz1MsptzgsArMhFTtCAGJt~izKiysKB-i0n0dwSMBRJK5nlFNFGLaK0OUzgNOoAGhyoltosPpa3-E8ySe-FHDw5kvxqtwmhQNK6J5k~3d03BEATX7rZQCsqv5v7Se~Vb~ep3grFClIPvkoiTHDfN7t4POe4~Q__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\641c\2ca1\4fc25b7418b62a2bf550598cea2bc66c
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/651d/b9e1/70ef4bdb0aac7a149418048ad03d9523?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CkP2Tpc9oVGjYWXWU27NMRzVzfxtJiMwAt6PDIj0ECxLvllFhbL8iBcknLYfs67XHYxNCepyX0vp55gAFA5AujapNijw2x~HyPoimZPZpnBt5N2mpyWMYU7Z3jvb0mHHc8T~eeLXP7h7Mp7B7M8vVSgi~ssjbzIz12UvtAZ051mdc49WWynN2zDz8BskRyX2rfrxMjumXQGIj-5WOiXpVC~X8SrcgBsdWmOU5VEQ44ICsMm0X6QJV~iOFPeFFVtkPj~CpBKc5dRjQqKhOWhi~qPslUJu1nqqOUpv1N2ji74wJO1fqbrb2pQ~0w2FMWT1lhMR7OJTBX5UAF97gFV~hA__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\651d\b9e1\70ef4bdb0aac7a149418048ad03d9523
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/70ee/e9d3/e228a12bcf1a8129187ae80da6a4ba6e?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VhSji85Rf9OP0wjcSs9urxAueaHUKy2PDpUYGnKI30O0pE-JhXOlJhw3V2UB7koWYO1EWPG~cdtq40rBcJnzRTgTJSNYYlt5qYLEMYDqkgyCYfZ--OKR7OmYmUAW4D6JWPCRbXcXXoK6MQt4uxNkeapYyqt6w4Xgq4Xi61Opw~a2HQA~uCnE4jZtwHAP7ZWI1C~98nmOoLpm0yEfL82sZTSHWpS8Cro7ra8J2EPU5W2gAsAY3R~UBwPvNf1R0Wa0~l8KP3bBGkzKP6ZVUB5RkJ1NaCJhEh8KAQ2Ybb19UBpRnG2Yq2ONcsdHo1JYGpkR~u8NOdr3-KW-etcdWVB~hA__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\70ee\e9d3\e228a12bcf1a8129187ae80da6a4ba6e
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/76e5/76f2/e48b7e08dfc3010c3002e75c5eaf635f?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=m50-mJkBGHFlJ1JXi9DAWJjegUU4hriZWhr6rMM9~e4gpA3UKo6UnKxRcTUuijjl8JBCOvDr4ojd2fxWPTO2JG-lJds4BWwAA6WuRdvS40-6v3P55yKmuzTs~05v27UY-Sx9y6BxZhoVUYQ3fph30bE8k40LGUusQaKLJ3YAhEDnOwzyaKdjK3U4Ij3DPfqytk-eGAO9VoNfWD9O3Q8yEXcIMee-JRPpEEuesgviQ8zhRlNCFIc1e-hyQdiNoP~9MEwTHdestmfIVwRRLavAKZ8c7ez0BayON~pgAoQ0wr~vm6Hc3Rss-BdY17F5518nPb8SMcuureSCzP6isXYx7A__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\76e5\76f2\e48b7e08dfc3010c3002e75c5eaf635f
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/77bb/4b60/23ca5d622dc986598b516ece1d81af1d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=A1i~FEZcJmKOJnc4-fZqUZPVNESML08DBfpTNgYewzoJmph3ina7RPNorXWGZlCiA2nNCNe67H3xghOq3cui3DWDmdXm2fZ4A3UlL4JHToslR5z5Y4WZQ39h~llEGwUHoTh8maWTR~he85C-57KZNa2PQFVyFbro57qux41jxnGUkN5Jv5tqyXZCtK4cgPj27p47wrALzbYLch380TcLVjkZofJXTX~yHwj3D9JbUals5RNqafEKfLHoN7LSTm4oYT4Mn6x6qzU86oLsO4W8Fe~tL9-qb-jp732zv0V1TH3FD-rV2YRdP1up91TPAM5AhrAmevNmGlfDxARKBCo2lg__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\77bb\4b60\23ca5d622dc986598b516ece1d81af1d
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/7a1c/ccc9/ccfbaf48973fa3ebd7347652f0ae709e?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qUBvBAiBoxdxnKZLa3EsBcyIsnKWZXdLZGgV-GsciMX9eN-czXOZkHlGo7dJSQfpt7tNnPWSwG4CVfmWxe13wE8uHqHiPQVAYl3V2KCtZqZr4o8xl5HAIsjQMMX1gKBU0-J4R9KdgXeNu3dD~nQHvp3oFac7E00pDna~tdObxb0dLQaLSGJJw8nOpfX31j42f05ww3ptsv58WoJMojw3Q36w1hEgEHBz15jeZDpUkAh35UD2TcQmyWli-SYo1aISf3ZT5QTHSI7bB126UrT6-ojnfPI92Q7a6MrVjdyL2vm1OajSz8Q17qjiaFRutbna4ASNLnXzLHw0E2awSb-Jxw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\7a1c\ccc9\ccfbaf48973fa3ebd7347652f0ae709e
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/7b3e/5fbc/9800a9cbe99e3e8da0a6d8e2088ce18c?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MaCjymQbU-tuN2oem4CUb47hc636YajRNvTktDF0nCheIRhFOct4llCUBHTxFB-hnW4qKOfhRjBNTipnPaTrm2KoaFWSMtXlnddByz9Hgm9~~aR32TZpDE-vByyewcKfvsANNrPpTHmw6bgzD8dtbugJFRjn2XLKGOwC7tgS-UH88gFTeCkCmEioW42xxOiGC6GWA5mseJWaQHcHEL8mBXz2uRrysjuPrOWMbgrvnEadiBS-4Qz~~oVl6jye9ln23AtnB-lPeTuadWDH6klnbS5EQQIxIXmCbSeFUgWOtL5Ko2adi~jUicAPqhNBLOXKNnpJx-nBcFPBYga3-hVvpw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\7b3e\5fbc\9800a9cbe99e3e8da0a6d8e2088ce18c
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/7c4d/64d5/2e053dd1df5936e119160e0a5fb46176?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=PQTS72H~SFKdib7gncshcdnt9CkUsoHwuhCZXIx8L4SLW288oovgizg99wPRvNvFv9qeO9NsdCziwMMGtPTjeFQq5pK-zMsdWkjXnt2ndjbr3DJycMEzPhbiIFgVIK-INhwuFBpM~0OOk~X50WFKXinlOiyCgmG5qq0aPtNOu2wPx~ncNqMaCwhUxogDGZsN0PA2Gf1DqF781YfmyJVGMKyPATdWnAwlkzDT0P5YMg3j0Aoln~SVN3DY37B0IfaPAnfoaybMO96WwKUeO-JagkOKdwhV7-0z4QRnlQPojYzUqXxGvYpx44A4Fz5tP7OQEAZVvTeB8PJn7jSOstcJiw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\7c4d\64d5\2e053dd1df5936e119160e0a5fb46176
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/7f47/2553/da67feaeacf3ff79eda3db8ccc0b0ec0?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KEHT6m7UXGyhQQ4t-rfFaQif1N8RMDHpAciIHncywxOU~4Eeie-3-JRY7JfttyKAyguLiDOGqUlkxXHmnw56EhP10CDGceo5dbPtIXrmXH0G1a2aLswoBGqgSktSe7pTeIGyJ8wz2bl4bnfaWzbB3Ujudw4h-LSqTzF02C91HxML2EZ32K~8BzHYiakgE1J6vqd2hRBR5Z-PEPdwUWP2Z1M7-iHsuGCF0z2y7un1GE1gR8SXwqwtNw8rRG6ROwJ1cbu21AjNB2JEczRnhS65f411j9GvQ-tiLfHMj~1u0ZzYh1bgWCl4IKWCU4XptI~sKRlwRGMh06zPZnZuUWgbOQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\7f47\2553\da67feaeacf3ff79eda3db8ccc0b0ec0
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/8064/3c6f/63fa48ae8816137f1faf4194a380549c?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X71ferPoNEihlXNWq0vb~1q9Gv0vxNjsw1Is9E8R2zN9Mq6dNR~gNcn8uKRSAe6Gvg1KE-NIo1Asn7eFSa6pN4ynl7sh~AXP3JUXBpsduI82IODZaJGjQswNudphntfxu4xQ3Pw4deP3HqZoNJq3lK0daxYVZ6lrjV~WDU3PCCIs1jIc67826JJ1oSlkmQukeKAWw1wbN1LqHaRjua5qArGq67Wk4LL9ArzB9eaGzCXzUiP39pdnIGxjkam4BUxhIoSzrVoutR0O03dWaXf~06D7HrEYWRvWwmsvfOu58J3ASEuECeWMPbEgFqdC5jlVnAG4~a30kVviAdugiaUOlw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\8064\3c6f\63fa48ae8816137f1faf4194a380549c
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/89da/49e9/22e30382e99c4648b7d823352d6f18e7?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=a3YPsnpqrn~8~B8U~bjaG5Phf48fqQYzEGxshwL0o6ezPosSic-YX3NaoYrOrvJkuIiXOhebGhbokdJj~m2NoGhvMnyZnh51AZ6DU2-sLihXcZnu-9praDxrz00sJQHYPsa1GgjvfLpVIUJjYXRyX7J1L0CUT7eHoy6W~JHw8b5BtLgb6c2emJVeP78OVHTg65EW0FMwMjvKExfu4Ob1Dem~lBwJbAD5szbOJcOHfWPBbh4XTo5nhKflvpx3Kpnmy9upYR~yrlrpkKEkLFjILcpraAj72RKFEPW~pxxzQjwjMMxTnHM6FMGdTLFAkiCbLvajN43m4Rkmalal3d7N6w__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\89da\49e9\22e30382e99c4648b7d823352d6f18e7
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/8a40/39c8/8ec55db76c27e101fe1290fc7f2f0539?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VCCF1nz-Cp71pAWLe~2-5VEPX8t9mJJ~DZZVgMWEjTZR8NZLzBRUq74cNA5YeX6dKLre9zUXErmlZ-mBxhcIFsr5DIvRfR3wicoZ~ZzjK9TIvlOWyAHvmE7PK9-BDXn37dRuwffm1aBlvZWKvp4AoXwpE8GQ1V90YOlbESu6j2TEMjMH7BB-wbPDmdG0bKy~~y7~qEyBopF~2zBHNy-qVg2-Ah5YFE0jBz61Kz7MY5tme~~dZ68XS0lwSTL0B1BBpEcz40Uf41Jy9CUmg-5lQfMAs0g9C6zhV9jVhABCmh-aNYy~EpXG1RTnG8ppqhPhphwFZIqJVE8lLXPgTgOn3A__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\8a40\39c8\8ec55db76c27e101fe1290fc7f2f0539
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/8bc1/7810/a8c0098c4be6deb9b59a559ee4ff194e?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Xm1mHWAIo~0A3Yo28hM9RdlGONWpQqd15ishId8iPQbw9Lohk-znLOerIUYnkkgvLWMQx4D4QDTLmgrLJZHhUCSUPcBTkYvR92mEr5Y3B89mDDl7jy6WIYwzvjjwOLnB48t1zSyJkIsxsyMPj0R~QLSWroNZXcBDuyk4y9WMMSDoR~xaEN99-hGCywODSPO27CniXPO-QRZ7MbYuno8KoHmzyCM4z5zYXtN4cqSJsyfY27YadcheAwrxsMDIoOHv4-hL9~nIK26DrfvX~-sPoBe8z7KawS6qmE8lPr63th8ypjM111JF0RqSFnZeNpfGxv~Rr67XpCOkZXHvR1c74Q__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\8bc1\7810\a8c0098c4be6deb9b59a559ee4ff194e
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/94d6/4f50/5de8e4dd39620020f320abeab8e5d432?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DO3jPhph3FBi6b1nRe-J1OJ3PPOoZonsFx-SSc2NaGzH-q6BiVIcVQPuZKj31nnaotC3jhFd0DzKDJKFRbAgHdTIX~nxo5ekwX2mGXROPciIdIn68r2XNgjiW3q0B8Or6cbSvI4xOCbGviPNPwO6AJ4rhwsd8xe9GBaY6p84xgeBh7uS0-hOX9tjJpYsRfZcrgovIcy3Mm7h0DoKE4VbehR-CXJQDioouQxicuJIsHOyxuyE0LH4sSto2g1G1Z3egcrr5dNOmZvVe55m6jxd5sMCIjAvTUL-IVeXmMEhPesdxX4HttmJwle87QCyuVsGdjgGci4aoT6cIoulBKTtUg__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\94d6\4f50\5de8e4dd39620020f320abeab8e5d432
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/9a02/ecfb/59f0ab4176bbcb734dda608c687531bb?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=II2IACldxHg1gAhze8iTIJ0RApANaTYS~CqEVBcTnBJUvxGRvYK7E7NJa2RHWW4WcxZX2DZ00jtI8k9FnkZvUrfaQar0uB~WmJ4CnoiiYKAwCIlzSJK77~IomyNT22wgMY8oGpbrefW~LfwaSzma40A-mIC5jU1DerjPghuQLgcVTbst-TZ8L8sAFKL1nG0dDFWg7R4eLTIHp4LbDcGgM291fdw9inSCS9Ki33PsnPu~nmCQ7csH2LdeV1LY2BEjcKWuR30Yfa5z~T5EvEJ9IeM7TqjwWfyLKNOx4MsdDf5xmMsr~ldTlSpTh6H~G~sfHHAQZbBuKXcNnRUuwax~nw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\9a02\ecfb\59f0ab4176bbcb734dda608c687531bb
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/a017/3ff2/670ec9fdddcd8fe617e2804672665d60?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QSimcucVkdSDRDKFOhjnB8l~eg6xHkIyfa2KhbdIk8NhA-mHIioql8T7BV33OInIx6j0BtweC25Q9Fq1dknIscocQURsTgMHV0jgywZxGNB570C00LM3R-5pjAf7zyg8zGwn~eKoBeSl~6~975~d19XoZuWUd3UyDpTdUmaJWC5N1TEgZ4lX-t1Gj4yHr~~RJagWkpEC6wmOKSBXwQPbHo3bpw-FQ-zkQ76zWmM5Uq8eb6g9ojdqCQ9NSAZdDKEiV4MePJGRJtRApxyPaixM2y6LkLU~PqnWJTwQ2h9nS9CPR5iSwIFI9HxlK~UlLU42Dw~-3sbqtJrvPyrPuyvr9g__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\a017\3ff2\670ec9fdddcd8fe617e2804672665d60
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/a7c7/1875/83ea632fdc1500b319e8f86a93717307?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dNAQMRedwCQ9UOaFNvYU1tGwmFmt3zRgB~x5Dmcrj39q95fQ9MrafQUXC5jq-~6rRb~CV4z4CXY0jUuyJyoC6V~Vg2Sqbf-ZJ40Yt3YlewjZ7o-PdL4yifhDb9HGQAB6QCFWqhPKVqLEXamDrn-4dhY8yra9lduJC8rE2kuTCYjFb7gsA8FLCXnDCKkGeMTrMLxqud5zKE2NTT0va2usobzzmUTcpA9s4w0YIvzfBi1Z~X37tUCrWosFQCX-dClQyeTe2gsP1CN6RxkWu2Jhg30LAWnD4x-ONl7f1sz4y0EFQ3nXe5ee4SG4~1orPa3t3XBK9GoErCucXYc2-UoZ4w__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\a7c7\1875\83ea632fdc1500b319e8f86a93717307
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/a948/1bd9/2550e53834b329cebd2cb86497f926a5?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SE7fiPq5qhFysR1HJxEDj6BOXJO5eU1Umjprcma4ZuAY7DlNqf7jGdAaLWr7WP~QDtmdkmrbBDSia0ueDNek6-9-Pb0a8JCgnKTuMdRhQTeM4ClSxjAAAZrgypVe2jqNbm~XpVRi7Vf4Mpc43VWDvNE2pmWjag7W3vRMk0PL1BgCkJywOxfSgSgMjJWlfW8EWmWPN~mKGVWv320-ZOTuIP23KXUMdU~HA7jfhFnjO-86G7yUchyS6LIDGBPKIIBVAm9KdFRaV-jchxkQkC9DvjmCc1OynA~VSLuvZbhbRmuQPnfy7L6Co-8ebdCMTL7LLzibi8wOQPJBKA~swSE9iw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\a948\1bd9\2550e53834b329cebd2cb86497f926a5
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/b390/736e/060cac446dcc2bd9a84514fa50bf8dd9?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WOL3gQtIkspHPFhuLBmwUb6IS9hBNJ2X00URUzYYQgWqmEAULxltg~B9hVOKgFNekUtFkNiy5NP9KA4KP0KSp38Q~D1nit8bZX5Sdxl5NvBfGWDbfElGO2x2UkwIUUdCNzy-1~Vr9KygFuTBz75BDSLtgny-bRoGgzOa95BDmysd51cwNA2DmwJ~TI8NDTj4HHLcabXqcjzqeEiDJ4UfOd5m6spYgzd8hGN9t9T4C2FIThDu7UMLvvD1fhEqJppDhnJV8Qkaqnt98WK9HW9rplUCe~eObZJcZox8G7tlG~9UyaW2d7QK~Qvxn2KBCQmWO3rELOOukLZakJ1tTE37Ng__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\b390\736e\060cac446dcc2bd9a84514fa50bf8dd9
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/b4f6/36aa/9075dd83c54c58a3ecf22b9312c6e9d5?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=X0gtIn~6j5xgsLYOjA6wI~0x9VWRsqdQIv5l~ChcqKPnbH-FMqMxjQ-sFMC7PjXr9UodLcHdr0Nws7qCrlp97W~0tsbTb4vrIQHhF97MSUsoR3dA6yYSPC80J58hVaP8miopwDa1ss5GSdmbSNno3c~FH9PhBrAPfQMymlu2d4HTQQsJEzzJJqIC6t050so2quXDXJcprwf8YWX0BsZg8fd3qtobcFd3zcOTQMX0VcW43jxqJtkG1FHGDwle7m9psM3ahlIS1uQQpLp4a25IC~r-nmgNNZStC6K1MmpK4DOFmNu8QQHtYk-iPLJ3f45LabeZEas7Hooq-HvFrPoy2g__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\b4f6\36aa\9075dd83c54c58a3ecf22b9312c6e9d5
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/b7d4/98fc/5f6aa246c0764541525ef1b76156b639?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ik7SxuyXLDpaKjmyPfXRnRIswYX97y85XgZd45-XTvZf-Nf22UR93JVlqmUHei-rU-rNwzzQnhgKOVSb6ZggWTcUg-QlXOpV~HL3O4ZPmyUqPGg7EM0Fn7vML6uZYJJehptCWOnyYQn1CdI6hRBLMdtwLGckclpPZtcFtS87gOYf03YaaC44S5ajmqN77Au3B7UOWNBvmsqI2xd1uOUOM6MJREZ0hmwQxngOL4ilNVtbvOl2XIjjGpWQjz0i3n3Dz3JZU5G1YTqlOvTwDcffi7gZc2J~9uUteVcWwBJIjZQNghZvt~gzcOd6j9XXT1Yj6lv1jE2-6qfOoJi70hYN9Q__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\b7d4\98fc\5f6aa246c0764541525ef1b76156b639
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/bc16/b594/4dc46de1746ff0c2497db85f9f7894a3?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QD-XkrgrqQJakJz1WmUCA78mA01Zxi~MarUoXkXtIggHqEJnYSYus6M~gIdABevbGiRMyqfa-zFhyhhpdZl5D6Xtcj-VgY4nx1n3DYc9aF1yqD77~deOmxxVxbTncY6LpUp-bQT-P-2NBmA9A0VlwXSsiIHuLsrT0NVNeu-X9M5tBYX0l7V4bnzPS-rChxQ38iWLozGwkp9acwfgZbRqpsmP5rxyyYkvx1rC0IP0ImMC~SGpe-T9AE3vBkGHmv43mBqKjn5NyA0ugJSmAMWhqX~-Rj3JaE6hzxF-RnD4KqxdtTEe45uTqKTFkcGBSbTQe3yRB36Emtz309CwI5EPRQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\bc16\b594\4dc46de1746ff0c2497db85f9f7894a3
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/c2b4/5bad/aa5acd9342ce8f9c41c5ec5a8b52da3b?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gvpSwZ9g2SVednnmfZY-9R9CUpPsdkkglMVonzo-v9-gUo0Qy4O9dvsqgFI377PcJavkm4ldJcfF2FA~ibTvwG3-jKh-LXO4zSYV7b4MYcxhekJ~dBzYXMTsRBFwarP0JnYawhK6gAsia6DG4HYCY2T4-L9EV68ekeHfID00XM9vO427oHgtb7OlcnZFZNrnq9l5kUFE1EYAKW3eqEqoBA2~bN5wXAOia4LXDJ5b86BR9W8w8RtODoxTasz57bYCLjrTiepThP1E9aDrs~W0xNY7n3lfDA~d7x6oXe3pTryR~rP9NG9~J8~U1bLEGbkR6VOsWbpNANl7~RkkfzSn-w__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\c2b4\5bad\aa5acd9342ce8f9c41c5ec5a8b52da3b
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/c826/2e10/c255971a0ba4a4722ea89cad822dfd6b?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JTxVITD6UxdiVuBJd3OXh~MdLTUfNfDBa3CX~~zQ8AZUa5bKI-m9Vz9F6HeBNJibtTB4wTl6ZE6-82dslwcqGhCoaKS9A069PYV2y~V1vRzf-Y1tPsg2BcbF7kPBh46S04dqmK-KP-yfYdA3gdLbRSH1m9IxYfWVtL4nfwgfK6ude1jkvkpdSkQiDddSa3IFvY9qc6khHX1Nv8UB0qoKC4ltkfQR6FZY279z6YrB-20z5LVayCicdDeT6bcoBAhrPHoluF~rnJyFYXoTTPqkgLS9Bq-DBi91ITzDc~vRKMfd4jfmM-i9XspOLgGolBrZFcT8A5lUdpyJncGFUpL9Xg__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\c826\2e10\c255971a0ba4a4722ea89cad822dfd6b
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/c9a1/7a4a/5a488436815040abb622072a32b4095a?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=S070k~eC92AL~sPfUlLpxpUuqOehX2fF9mDzeI5k2iA8QWCtDchXBx6t3FoDFAzZz-8HdU81mVVsvPEr2-FdCu8tBQW~94qK0Fd-RKS0TVPNeAjbN9dNTMF5n2PLjmeXw23yt617aWBI832-0xXvHidPqmf3nsQquH8ZcwKd3u8akt3h-4sEQiJhECA8QM4NGl9B3Fz3PSGSd7os~nkPKcNVFTP6pcIfD~w320NwrjzwWt3ZJKot5In4kauWk~NkDDBYPhzdN0Kq4taYhRfjCd1cmZIiRfEcjroOn~hl0b3yHUGGrBvH1gdIB9JIYn5tZGaPe4eLhOOf8Wf7sVduag__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\c9a1\7a4a\5a488436815040abb622072a32b4095a
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/ca30/f4b2/63738de2fcc9d03241a77405ddc73a51?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Z2FjynR9uLdxKy172PBDOOjW-FTJG4RWa8POeH-liUCi6LE5pPt0SxbLl8M8E~PgY1bKkrjuo0J7SdhqMPdiE~d1RjTxZfA~LiFXDS7~mqsdsDdYjff~LkCKOKPOCZgH-txxyaKn~jn00bC8i8eKsTTcTv~mqGXj77YRNb9KhXjtRxV1pArqpNTB1ac6JRxCs1qEWcthEiMo1wHxSxx7vmw2mszFHCNiTec01feEWwlQ6YYtDCYenNY4esmyOcyTqoCpAyYi-8nUtObwhCWoplkLjQFsNi6kyFFzWaJcUScr9hFDHe3aaQmGhIfGq5EoOwoNNJ68sOiyeIV-PbIv7A__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\ca30\f4b2\63738de2fcc9d03241a77405ddc73a51
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/ca3c/01b7/00e709044922952de6424abe2d72b7c0?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hLBJdNFd3YItA7XrPoA2O6132~LcU1Kxi295IZd9wTpNtlFxt5mg4uEt1HwfX6lskDdcJ3Bc2LvZHaCOPxFW38S9nsSwFfQeAr7pHa6Bwx8hJYCbIpK5ViSTY07bl7yg2QOFvQiVTjVRI6RUb1519Mr84Bi-lR2L2b0d0iBOo1juEweHaC9ZS7S6LSh6UAO9R3VgjLOslLS5nbfw2fQaD1uMXfOvD6jDtvaN2R-sqqIESGRDhPhdTh3dVgdJxbE~rtG1iLJGja--UEL1nrt3H523UIEfc8F10brJ1JoIZXiyg7kiNpw-jKzV7NY8As~6Pwc836k7LjU~5eWFDliCCw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\ca3c\01b7\00e709044922952de6424abe2d72b7c0
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/cdff/31b4/49129fd017088ecfa598f2957604f14d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=g1iNngr-o8owOmKrUUrEe80z1w5t-wv1z3eLUEfXyJcr57hZ88xPvWbvfQTZCiWK4IPnxm8PDlSUpXN0-toCoKeliMxlTjEJ7k9LKY17LOYDOysMXAH~XYYFM2UqKaq-gQdKlUtCcLG~1DAZCh6263WYScZa6R79BwQogaUMR9Zu4tBpmRa8eT6PINbXWVIURhj9d-xUozJPpS3Vq-WZ0BWxBrnSyZnIsn8SndSIKS7q6Yg~KqrkiP8BiGrJkye1qnCg6FEr9oldRbeZql459rIwnWNJsadIoIfApuODka030BAfWwoO7zj3jNuD0np647wqFVnVr~tzIqb8GgqA5A__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\cdff\31b4\49129fd017088ecfa598f2957604f14d
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/ceb5/416c/8cb5dc23b92bbd9ad33d146a83cc536e?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IcPI-LLHJ2-9CAwuUgJdwx14Yoqx9FOYmVICEo685ICVztFzqeUANmsTgrIgNIHk~Ac5Ks5KVZkEBsfZtyYxcYNBaENp6c1fG7YYF~0lDKooprk~GoOarcBfLPWkuOYfw2f2dNEYQYaEDkh4wW8bbwrhtSZghJEifJMOwQmna~eH~st8x7er5Bmq7wRUcduKGtE3jCrNUS9BBi01afSIWezZtGfKINyiC3E3pkhq4yK6Foz99WdQZApReSAHC4MLhp~~yTVVwYrfQmlOimuv-Zustj~9ehZu08xiNxC-nI50eJZY3mTZStplvJCLUg5zmVrWv4P0mFkUHhXouyyTKA__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\ceb5\416c\8cb5dc23b92bbd9ad33d146a83cc536e
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/cf7b/f730/a01b7e602f205f90c2900cca0de0a09b?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SonoxsVsXsaO35xsaCMizKUWXrPlbg7UuQabl9QIewQMAGtcrIRfX-bvCW8lF2fxKVf5IdP4PIOBH2gTNUuZX7v-z8o-IjmSRmxIqDIDido1JcaVZP9u1w6FNHSkM7JyGtR2AJBpsbZHzQq260tkeGkCDaN-B605Na-p6n4SEyWZtuQikKcQFSTbSPS0GALkw4FFizJ0zdfvgG4WOTK-m6T6bwlSeQRBjqCkP~d2dtS6vxeNmB8ArcYkNKjFrtzt2oHa8pcPR6~lZuJdVGuQ51qUPuA2C6XKe4O7iL~ZDMONGbGHlFZL8HliW6oC5dMJ~bJ23HL54~B63bi1IWdGkQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\cf7b\f730\a01b7e602f205f90c2900cca0de0a09b
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/cf87/5c65/afc48f4375e7b2da87723065bd3a7566?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=grqvISn~28dW3FyhzhrHHkOSOVM67UdQirR09A5CvFFz9ikiGmeX5k9dU8TQaUG1aRO9w3XOEoqxKsJgKMKrI7em0wGxWla57HEGa9lyM6BUikBwtKQNmliwlL9PbUFfsGW12ejOuyHoc0M2kEqmpnKY0yMDeqRZfKhYpXzuOe23aWjlOW~7RMGAZVqeI5nACeaha0ZVI8AWGqM44JwM3CtcMRZALFasOmlLsSmng8RdZuk8PS2sT1ZBC6~3365ej4dkw1HiE9L0aMhS9YtzphgxpeHeRZB8MStWsUtYHBl8z~0~iUr-DahxHGlJlmiiShbe0jCkvuwfA1fYJkR69Q__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\cf87\5c65\afc48f4375e7b2da87723065bd3a7566
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/cff8/05f8/6199f71a658a06bc80bdd4ea42f67da5?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OGs0tU1P69A-1H6zsmRdZW3osGdILHqYodGIQ6egnYr1IH9gH1kCoqRhTNBbKT7RF-~mfr00gSgx6Dxo1PfJPms-ADpEF85mpTY-DpyIlmHMuWX7gTfHZSPC9XKRhZP887p1rsa~ztGuYJDZbs5ICZSWu69-ZZIUt9c51cPdJr~8l70uH8kIwiYmh4GOv4R2GcX5M9Z1czYpAweDJ2~cDDccMMH7rhou-aygXYQvflPnGgE6GAuY2pv6Ck50yVt0d8uvf9-mIRFAimySh~NIWeQKVQQvpt9~~XYgS7LBrr0Ca9Rv1MxTMa0XhGCr-USRuTJT-XzRRq29r51ZHCcchA__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\cff8\05f8\6199f71a658a06bc80bdd4ea42f67da5
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/d2ad/b22b/53d462aefd83bfbe904694e20511eb7b?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=l9GcGIsxPw82xsFGfZmFlLrLfhYG9xhw4gARsnJFICdyQi0eWunv3-UKM9jiaJvsS7FBelMls32bnqIE3qoqcy74ch-MjdnX0AQ-D7corEM1Xq1FLt5gwtzt-qk3u3B7ZVg2Wit8GxW9LOANY-dbfag9nAOczPzU7aOGnaGHpoCLL8dWt8~p4x3RLrxoNkI4AyKQcUciH8dciNZF3-uYttq1aKLrZgVjI7yGGF3Id7~nS0mqwOTOi91DqPtc4Iag9TPX1cqp5z-XiM3NR2KpG9La85SD6r2ibY5O7WoR2paQIixNdwJTGYTW3AggOuoyweXDfklm52DO0iHvadwNfg__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\d2ad\b22b\53d462aefd83bfbe904694e20511eb7b
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/d310/7e16/bf54338223f68e6865eaca571dcdb36b?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hIoBFI8694W~RZCxQ8HSumMV7XiydXa219WdHVWsrZvaFI-NvpSEVK3uiJCrBV5mv6U5d~SqXt3FVBMNN~fZ-JNl8FZnTwGrwR5ClicrA-0LDOxdbzBooXCt2NOAYt~oE7twk2~J0bTyR49israpdDxdxjpYC7lSDLRcX0yU~SsZV~c1SY5GLgeRh59gqZ97EMa4HKcE4UYwKtHBjV98BIRVkOPAZSsH4xdycuVJSRf3TuD8Yx06XhaEdp41vvBznimLM~dSOmBKNCDaAUCbTS2C3BQzZoKUvlLFHnlzBrq5LC6mqn66FDwEnnQi4jnjs-4ycgxGzbmFNcbtxm8s5A__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\d310\7e16\bf54338223f68e6865eaca571dcdb36b
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/d397/763f/da598266ba77bd58e19302c1b8da19a2?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TqTNelSKY~ee9Zi7Tf1Tc0TV75CW1HEaYhYsi~F3IKfSAmqOIKY6PHsOmR41ZIy25g5QBb6yFdfhVOi9~xu3dmWxNGuzyHkVNhWwhMeg6W2QzZdEDL8HkbEi2iqn36foNoEIfHE0aArz1o4BkwQwfcHehlxn11kuPv4oz0qO3SL1rAp8xrrt3~yLEoDZOfqkZWphYtWL8-b~QGnqQE~UyxO7K1aIuNu1YeyM-jHrJcSAmBLJBkdCkOJRYJf7h0d1qKQ5i7MMfVwA8XAwBQsSbYx6tCcFneuYW1-Eb5A7FVsW8xZDdvxs0NOlpj5Sxbn6J8u2C~iPF2VTC32t4SV-uA__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\d397\763f\da598266ba77bd58e19302c1b8da19a2
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/d524/92a5/3485c194246befc39cf801cceec44348?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=eX3kViZGI8WSMkQzkyAJWZV3j3Dag5-aA8YdI8STva797UNOqYan~0IUSQd5HrQvbKc15yiwhxS~iOoRgd3YKEIjujW7PyUDmzu7xtj84iPmm7kjqjViF5RUd0MRJsB1GjwCpFHdRw7jd3hg2a6j76H7BH-rQhbYXRpospQXxvG-62L0MTWu~hCePm5VISQQo6aLjcrQ5Wmu64kFf02vSEess1836Vs0PhiQS73I3mebmQgidVrVk9V42ho8CLzPAcPyZjYD4YL02Y~bZlJ1kUjauS3gwaySESoZ2L75Qj~U9WmIr-nfwXd6eBKLBmMnFsNrHZm-vlu-y85Wt4ewTA__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\d524\92a5\3485c194246befc39cf801cceec44348
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/d90b/98aa/beb6f29cd8f6ba98a8704939deaede0d?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oUarS86I7oH2OwhFy~oxKKULkWQibthZjSu-T5IWtCWeFUD8JhhVXOdQzHF8fX67HLIDtfGNEnZ04JTR1gnwDHGDT1MFHsrmps87ybMMyDmef9OGEI4kGkL-t6vgVjVTZ3VyCXZ4kRmhtpvBNBGe8x-cX6m9oswJUQTWjqUpVImzQo68xOT9L57xk~1PthN0Up-dsQVX3vGIed4LsfHIytThnpie9yptqUv1l98QXDveW50xPuvAs~prCuMMbLCguSwZo~UGqRb0hnjScsozpukNw8bFLEDNoXgrSS7~sirdncTiuOg~4kcR-KfAdArsg4~dP18QMECf81u1WOAJRg__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\d90b\98aa\beb6f29cd8f6ba98a8704939deaede0d
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/e79a/2638/2c707725a72680ed2c9b6715f98b7d3c?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lKG5CPcb3Sg70MobwIwfqNHWqWxB5EcP8q2-Zonn5pxLrlE5S4-OMn0Nu2RwXzmEYSNVKGPaxyDfK70C3EjegFj55BUh6BY1KuJyZ0a9zjrUynv15R0mO~ynXfd5s-k3QH1HGwXZI-y6AKOrbGtJz9HtyWqQUEYJavW1woaFveWHhn0WhJkjU4EXRHczEO9Euwao5z1y88REcUD125idUNZd0iErFlFZtPs0G4rOLjoZGoFYQWZfTHmTeIqcLcSrOhS6Do-zFhIRIRDcLGBxbA~7UCvIV59DGaP3uFq5UFgWyEk3L4rxmRe5hz5rjtMZswIYkCgSbGL5IwRfaqVpSw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\e79a\2638\2c707725a72680ed2c9b6715f98b7d3c
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/e937/28f3/192076f65a095e30e94c9c3533060eb2?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KEkw-7hAaj82o-nJ~oFs1PH~Y2HlvmBxMy6~33Hq8-~qXRAkFJmiTSXfMtRig5fcwucNAVi-1Kw9RDWPx7UrRNIfi229AZJDzUbHrugXJXp2XMBHWjcFQOvkHOVn2Ns5uLIgTse5wOvEQ~tgBt-fnB0egUm7R9w5MdiHOTZ0InmSGBmRKWf6FllrXTf940AwoBVriQ9zQHDlsOLj2z4S00wzbERUtq4TAb3VQ1pihhcBQrlxogcMiABCPz0hS8lf0LnuJDtYGWWKjADjy4ZAa4lSEGgshkz5UzQtRymozQZ3KEOIH32uadDzS6ueZOikRbCW2m3C4G~9fFDsknJ~VQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\e937\28f3\192076f65a095e30e94c9c3533060eb2
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/e9c7/2615/57929f7a7c087397d9741b8ed6fe2b98?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=U4Dg6evN91cEk0QOYeI7roIdWmiodGJnszuJNENe6zhxuRKgbgmDUH1hU19bVqDrtgpcM5aoFlUXIta1SKAzwrmqDl9j6zC3YH-PssTN3AzxgZfa3JS1o7kXyXT9TpYCFUWdIXAq58bMTg2uYtik8SnEeBd9H6FhrSGfTgGszJyBlhJ2Z15xbufysBcPZkhtOltFAUC5xavEvpW1ufc2DsivEcFDpkovryLSIhs3SRaoID-c4wAn4fBnYipBFjTRT-SS7kLewK6dGCkfoxV2MCQjPeztcqeSjqvWiEYfLqK6W-K9odSuGqPJpDLT6VOamKsuRa8QFajfgA76zjzVng__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\e9c7\2615\57929f7a7c087397d9741b8ed6fe2b98
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/ecc1/4c01/86cf7575f858c860f5f55ca8063644be?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MCFc74Er6RoNPNS20JiN-qwNyfWNjLWTN2fNVfvifAAzufAyE~QzWvAPtC3cDBpLn5Y---Yu0fapEwGuE9Fn99tdyJWpZVFqXlQyqhuvfFmbFmTIuhkcyX9GYGWDTiyEGiQOsnkqeuP4zFTp8r9sBp7frCwrsWkSXdSm~KXEgvkn4D5t6RUof6VaCNVs4hC4z8245Jwa6cdrrIqxtLm1UOPQzJqam0Is1hgs3AS8d7M2SgofK01PqiSI3yE5UoP2USKVMdMvuj9JulB3gAcK5-Jc4iKhQ6gHCD0YkCgDyQ-t9TuWRRwK-AfR~pVXO5GlcWkDFKDGKW-ktmmKi20UUw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\ecc1\4c01\86cf7575f858c860f5f55ca8063644be
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/f503/03dc/6facb06b40c6a1387fd5de6825326564?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ic42Gs-NNVWDAtxgtspinD7ihG4gE9vGh2vw9VyAhtK-JsOHVmpSCJclLQW56~6AIa-heRXLyPLgNETcVhyCRfX4xYJpJapU2UG03I9A03TZXB~lrOL94O0EeIfHCfxZgaW1H90yWTrKKifQ4OzMuACb3-U5-ituECDpy7x-ag9alRohUpzE3v-X4A~YXBwwQuWW2O~xHKuQ8wyGe99ehKvXhy5dlHINCuMgkImnkhP44C-6jpjxvilyLO3HeYbZ9d5VpPx1WBYwurevKaOJWs05Kl~ayAdZ0yAxn08JR1PwH4s1WOrHSrEs-nV4weDS8XOTCUwdPWUJA1mqli5qqA__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\f503\03dc\6facb06b40c6a1387fd5de6825326564
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/f741/bbfa/decfb986e9821d3e1f65ebcf946e1d58?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mC~hzCnfjhZssT-uxaGaJKgzmZrNV~ZUTGk2He8FJiXF8idzg7RbXr~ooQs5~~q4-h0~dFM0jy3NHU2p3jrJLofugZhjCylCwk1cMloviswmTPl2kB8pKmd3uKheRtrT0GtOSwss9BBbNrj34sGmFIJdF1itKT-eX6ByAqd5I~QvlQIAqgOHGQQ6~j~GcxwcREi18c7Of23fKUarQOwdr0ZhLXIp30DRcA~MHTx0MGNFNPPJumQ~qImCQhzc2JhhjACrkZvw9DrMkdJMtJmwOhGUrnX9TcJiG4FaQmPRYXmCvbJtysjARtD8x5uWiCmkVeYqBadkCoXf8jin1G~BZw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\f741\bbfa\decfb986e9821d3e1f65ebcf946e1d58
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/f94a/a632/b7539e24cc8c9d81c94e66ae39c9fdc2?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CvJD8RRbY1-PDOPy7vpGXbA7nTnUcCHQE1-2kl9brUSq~67qFAi5muWbp5MYZBlozYVxad0Nk7IJkWPIxVTKrE269DzKXJ0HS1T7JPoR5GSjjb7NCrtztNX01m06zCi0bTC4yGyHRYJegZawBBQYFTUxKJR5evE2vlSwobQ0ExhO3n-2o0ud897aX6B02LPIHDN-LGmw33P-pDExkruwHbXoLYk793pP2UXb6gtOy1vn0RsFsbHsZy3XeHeqHGW3n8~pQ9edlcze1oFyWS-hjgcB5x6Imm5HtsvTfA4x~qHZt4720zWGexKvNQRVUwJEtguo2fOOsJCy5J6LLdswcw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\f94a\a632\b7539e24cc8c9d81c94e66ae39c9fdc2
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/f9bc/e7c1/97c5b94a117da8143e343cb08bbf2334?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JEcAnchW3BfwSXYNFSPdMzQiQviGcR9yiAvVejd-RoO2HfB7eqbITG3L-cgWHXfEUVlYd8GM9yo-RvxMZpvkR5~mVDEH4N~4nRG4RbjcncHySoLqjw8n2OF13ouyH-PQAzsezOeOePdFQ1utiDBSe4topgtmgb0aUB9KDr~JhQzV5Ab9k76rUVy5PqJYam5Yz1jD2BqdD5nPn9yqrgXGKz2ZrsLMF93PoGrwDa07pVfPyt0q8HC6hn6EvCEn5B1c-sng8BUS-88PgA7aSswL6fIYOIdwfV0kdIJaJh8QaJPvhvvYF4-g624zd82myrwDQajb25yus~pI3mxh91V9qQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\f9bc\e7c1\97c5b94a117da8143e343cb08bbf2334
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/fa32/36d3/622d34c26a4304df294a9baab9b72409?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cE~KDk01NJOgJl1aMo6mkq6lgwsT7E5MRnse0AM6LWgMIGu3ljG8XQKZp4TqQ8jIWhVckvv3ToGfU7V2WcDrLiF25rT82AYEoIY6hIEd16Vl6TWvEDDwgodstYrWeXG4NjTmzKA0ZdVkYmlYP3QYNbAm0ifQgv4oYC3n2HJHCVKTuL9oUUkNEISMEppBlbIluo54pXlTK8HmjEPCEJUc61lHOyHWs0NwfMamBrwx0q5GbdXUs-XpIf1g5s6KWuhqeUuS7r2Hw9m9iTaTEryExe8tduG6VZ~hdKIa6ExngoaQVGfyc3jtdYzcMnX9nrR~amxyVuhWqF-Z33ZxntMxDA__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\fa32\36d3\622d34c26a4304df294a9baab9b72409
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/fb94/1bcb/d04db87318f977ff39201670fe4f89da?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VV1zWRsNdvkFZicfhP10lMDOvigisKPIlWU-Y7wHWX47W~AwiGwU9usCk5rL7zs82QkgBHPDLLf8xcRSbgvBlv7XLxdbgNcW89lcFUXXgnTlywGUHczZ6zxWXdD1AnX9iLPjWcjygmLCNuX2Mmt-2MqkEjuF1bhU-SUm~-Sl33EyA7RKSXeM6kjV01ixRbYb7OAhSjWjQRqBAxkqbAZC5aM~BTiT8krhUZVpOKfro858twMe0zoJaQ~riWAXXEia9PlnfZpfpoGW5exQwtwCw7Dt1IyNFke6V80hlvfBVhUTwYk~9~ypKK94KeIP7~wVVMxZnkmPa3y45M2t1cE9hA__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\fb94\1bcb\d04db87318f977ff39201670fe4f89da
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/fc55/6124/0800af0e350632cbfc9b85900d7f1c27?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=msilE3y3MEcit8LH3v2PcQhosDBtLJtBXEKYfxubwKl5Zwqn2k0Vu7-P4l6Gh8r8bdh59dzuW6E4h1WEL0EeFClmaCBWKpeA1mSrqRnYTxubo7m-oAkT6dZdK4FgWJV7gTSTHw7eDhSfIC1fbd01znGCa8RSrcK3TXq3snQfKgpkxSAAoejxb4fd~09UJHKreTbX0F745~pHlKbzg5GJ002cQ4WQCg9XbuQJtqXGUYJUJa8r7PXYAEwtBuNMDyqtJ3TNMtZlvInlvc1qApQlvWgII5hsHZX0LanNErtuZu76GUg0OliDjkQQDR1nCjSvIFUG25hS0Z-BXb-1KNOlfQ__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\fc55\6124\0800af0e350632cbfc9b85900d7f1c27
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/fca3/335b/0ab1b5bdc3f0c4e61ba10846964faf84?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ns1tG4ygTVykC~nSql479yxnGtzZo6lA9HKskkeO9UHUmEEwJ0oWJvfTFDTw8rXMWOi0bvxZcfPOCGK506Ls4HP8P1DQM-ZNEMtfK5WcXV7BdrJYIGdrku9buN42VvMaLIwNiVUL52gvleAcvhIfthLoy9PN2H3CwVqP9mPDEXpWa8dyPUrxBt5fEgLlaHeCRUFxn6JXcMZIqzYKPJrGmi1-30O9uhjyEAmI--XEDFEi2sR2zRIXve23uzJoKqgBlNLlyE5BFmFJt8f9gXBFbLIWOmvRQrmTL215sc64cak9l-qUmK0hJp04wTm88f1yqRCk0NTPxjQFtRq0TkF-5g__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\fca3\335b\0ab1b5bdc3f0c4e61ba10846964faf84
+Content Type: image/png
+
+Uri: https://s3-alpha-sig.figma.com/img/fe0e/c4cd/cbf46ea15f7d038ccbd07af8b4176243?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EinGnv1uhty6cvpef-NHoAzwKNedZI0WPscX3oksikyxFqK9~BdUYyQKbEH-dLMj5ICv4oqpA2Ovie9X91hIrYma3uF~Qg4VRmhwfoMg7Sl77qBqUNhFf58g5EFdX654QxSEz5iqoxOanrD9puW4PrmV3BlhM-Kjj4BnKBYo0D3rTeDh4HzUkcimppCcQBHVVOlKFypUo9yhplKNcdWBLEDzsvYKfTK9ZMl9H0MHOAkZAEBF22JBQgFViGKuPBmoWDizE5CS-VnAYJAHapMu6lNweHnCk52bNb8s8~0GfMV1ZG4~GR0Zp-dEnnw4eMNI1YzTg1T2ujDZlR2zQsRWmw__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\fe0e\c4cd\cbf46ea15f7d038ccbd07af8b4176243
+Content Type: image/jpeg
+
+Uri: https://s3-alpha-sig.figma.com/img/feb2/ea19/c4aea9a0a662149a37c9221a3ec47f28?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pF-KD8oXedbotbSSXvcu9LMUy7x88tMqaMms1Gd1oIZXztZE5lDKR9ytmu5FSgj2d~xOTbOMuB0V6RTPk77b~31GeK8yfh6-HN1dYHkifnHycYMLJsoZOnCaigjS9LmRscPI9cI9HndUaBk-AKlL467feJhM1VAkfevcuBXmfTBVvQh3hPXpt5HSkRGot05f~rbDgYqIH0z~iWL-b4hwq784O~rVb3EucUcpGuVq3zMX18wcvoV0oOWOA-iKafRxkIGvwMU6dhWnxANlv7Su9ppSe6RFWACBMSlZR6pBl5netuXTFtkOYLLV351RvLyAKmCToE2UGnUmzBpJyp411A__
+File Name: C:\Downloaded Web Sites\begetbg5.beget.tech\img\feb2\ea19\c4aea9a0a662149a37c9221a3ec47f28
+Content Type: image/jpeg
+
