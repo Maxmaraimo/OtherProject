@@ -2,7 +2,6 @@
 ## Ozodbek_Shuxratov
 ## empUpWork
 
-
 This project uses pipenv 
 
 
