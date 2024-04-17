@@ -9,6 +9,7 @@
 
 # Introduction to APIs 
 
+
 ### What is an API?
 - API stands for Application Programming Interface. It is a set of rules that allow programs to talk to each other. The developer creates the API on the server and allows the client to talk to it.
 - RU: API - это набор правил, которые позволяют программам общаться друг с другом. Разработчик создает API на сервере и позволяет клиенту общаться с ним.
