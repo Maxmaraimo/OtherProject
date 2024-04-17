@@ -169,7 +169,6 @@ function App() {
 export default App;
 ```
 
-
 ### Or if you are using useContext
 ```javascript
 import AllComponents from "./components/AllComponents"
