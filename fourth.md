@@ -7,7 +7,6 @@
 `mkdir` => make directory         => Создает новую директорию
 `rmdir` => remove directory        => Удаляет директорию
 
-
 `touch` => create a file           => Создает файл
 `rm`    => remove                  => Удаляет файл
 `man` … => manual of any command   => Показывает инструкцию по команде
