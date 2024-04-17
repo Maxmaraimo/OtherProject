@@ -142,7 +142,6 @@ Now, PythonAnywhere will serve your static files at the URL you specified.
 - RU: Теперь PythonAnywhere будет обслуживать ваши статические файлы по указанному вами URL-адресу.
 
 
-
 # Configure Virtual Environment
 Please note that PythonAnywhere doesn't support Pipfile.lock, so you might need to generate a requirements.txt file from your Pipfile. You can do this using the following command:
 
