@@ -9,7 +9,6 @@ Hello, I'm Maxmaraimov Ozodbek Shuxratovich, a 15-year-old enthusiast fascinated
 - **Database:** PostgreSQL
 - **Libraries:** Bootstrap 5
 
-
 ## 📱 Contact
 Feel free to reach out to me through various channels:
 - **Phone:** [(+998) (90) 477-28-09](tel:+998904772809)
