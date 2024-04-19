@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+
+<body>
+	<div class="toggle">
+		<input type="checkbox" id="btn">
+		<label for="btn">
+			<span class="thumb"></span>
+		</label>
+	</div>
+</body>
+<style>
+	:root {
+		--sz: 10vmin;
+		--tr: all 0.5s ease 0s;
+	}
+
+	* {
+		box-sizing: border-box;
+		transition: var(--tr);
+	}
+
+	body {
+		margin: 0;
+		padding: 0;
+		width: 100vw;
+		height: 100vh;
+		overflow: hidden;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background: linear-gradient(205deg, #5c6279, #2d303b);
+	}
+
+	.toggle {
+		position: relative;
+		width: calc(var(--sz)* 4);
+		height: calc(var(--sz)* 2);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		filter: drop-shadow(-2px 2px 4px #0003);
+	}
+
+	.toggle:before {
+		content: "";
+		position: absolute;
+		width: 2vmin;
+		top: 4vmin;
+		height: calc(100% - 4vmin);
+		background: #fff;
+		left: -1.9vmin;
+		clip-path: polygon(0% 0%, 18% 8%, 2% 39%, 21% 80%, 2% 90%, 15% 105%, 100% 100%, 100% 0%);
+	}
+
+	.toggle:after {
+		content: "";
+		position: absolute;
+		width: 0.2vmin;
+		top: 4vmin;
+		left: 12.25vmin;
+		height: calc(100% - 4vmin);
+		background: repeating-linear-gradient(180deg, #ccc6 0 0.8vmin, #fff calc(0.8vmin + 1px) calc(0.8vmin + 2px));
+	}
+
+	input {
+		display: none;
+	}
+
+	label[for=btn] {
+		position: absolute;
+		width: calc(var(--sz)* 4);
+		height: calc(var(--sz)* 2);
+		background: linear-gradient(90deg, #fff 30%, #fff0 30%);
+		background-size: 100% calc(100% - 4vmin);
+		background-repeat: no-repeat;
+		background-position: 0 4vmin;
+		transition: background-size 0.5s ease 0s;
+	}
+
+	#btn:checked+label {
+		background-size: 260% calc(100% - 4vmin);
+	}
+
+	label[for=btn]:before,
+	label[for=btn]:after {
+		content: "ON";
+		position: absolute;
+		width: 50%;
+		text-align: center;
+		height: 100%;
+		line-height: 23vmin;
+		font-size: 8vmin;
+		font-family: Arial, Helvetica, serif;
+		transform: scaleY(1.1);
+		padding: 0 2vmin;
+		color: #9acd32;
+		text-shadow: 0 1px 2px #0008, 0 -2px 1px #eee;
+	}
+
+	label[for=btn]:after {
+		content: "OFF";
+		right: 0.5vmin;
+		padding: 0;
+		color: #292929cc;
+		text-shadow: 0 -2px 2px #0008, 0 1px 2px #fff4;
+		z-index: -10;
+		text-align: right;
+	}
+
+	.thumb {
+		position: absolute;
+		width: calc(calc(var(--sz)* 2) - calc(var(--sz) / 3));
+		height: calc(calc(var(--sz)* 2) - calc(var(--sz) / 30));
+		top: calc(calc(var(--sz) / 10) + calc(var(--sz) / -1.65));
+		left: calc(calc(var(--sz) / 3) + calc(var(--sz) / 50));
+		top: calc(calc(var(--sz) / 10) + calc(var(--sz) / -15));
+		left: calc(calc(var(--sz) / 10) + calc(var(--sz)* 0.35));
+		background: repeating-conic-gradient(from -90deg at 0.15vmin 90%, #d3d5de80 0 25%, #fff0 0 100%), repeating-conic-gradient(from -90deg at 0.15vmin 90%, #d3d5de80 0 25%, #fff0 0 100%), repeating-conic-gradient(from -90deg at 0.15vmin 90%, #d3d5de80 0 25%, #fff0 0 100%), #fff;
+		border-radius: 50% 50% 50% 50% / 15% 15% 15% 15%;
+		box-shadow: calc(var(--sz)* -0.35) calc(var(--sz)* 0.35) calc(var(--sz) / 30) 0 #0004;
+		cursor: pointer;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		z-index: 1;
+		overflow: hidden;
+		background-repeat: repeat-y, repeat-y, repeat-y, no-repeat;
+		background-size: 50% 1vmin, 50% 1vmin, 50% 1vmin, 100% 100%;
+		background-position: -90% 0, 5% 0, 185% 0, 0 0;
+	}
+
+	#btn:checked+label .thumb {
+		transition: var(--tr);
+		left: calc(calc(100% - calc(calc(var(--sz)* 2) - calc(var(--sz) / 3))) - calc(calc(var(--sz) / 10) + calc(var(--sz)* -0.075)));
+		background-position: 150% 0, 150% 0, 285% 0, 0 0;
+	}
+
+
+	.thumb:before {
+		content: "";
+		position: absolute;
+		width: 100%;
+		height: 25%;
+		background: radial-gradient(ellipse at 50% 50%, #999696 2.75vmin, #fff0 calc(2.75vmin + 2px) 100%), #d3d5de;
+		border-radius: 100%;
+		bottom: 0;
+	}
+</style>
+
+</html>
