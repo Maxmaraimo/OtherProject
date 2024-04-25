@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+
+<body>
+
+	<div class="secmain">
+		<p>Größe</p>
+		<p>Innere Farbe</p>
+		<p>Äußere Farbe</p>
+
+	</div>
+	<style>
+		.secmain {
+			display: grid;
+			grid-template-columns: repeat(3, 180px);
+			margin: 10px 7px;
+			font-size: 16px;
+		}
+	</style>
+
+	<div class="main">
+		<form action="" class="firstform">
+			<select name="234x456x234" id="" class="firstselect">
+				<option value="234x456x234">234x456x234</option>
+				<option value="234x456x234">234x456x234</option>
+				<option value="234x456x234">234x456x234</option>
+				<option value="234x456x234">234x456x234</option>
+			</select>
+		</form>
+
+		<form action="" class="secondform">
+			<div class="black"></div>
+			<div class="blue"></div>
+			<div class="orang"></div>
+		</form>
+
+		<form action="" class="thirdform">
+			<div class="black"></div>
+			<div class="blue"></div>
+			<div class="orang"></div>
+		</form>
+	</div>
+
+	<style>
+		.main {
+			display: grid;
+			grid-template-columns: repeat(3, 180px);
+			margin: -20px 0px;
+		}
+
+		.firstform {
+			width: 120px;
+			height: 32px;
+			padding: 5px 5px;
+		}
+
+		.firstselect {
+			margin: 0 auto;
+			border: none;
+		}
+
+		.secondform {
+			width: 120px;
+			height: 32px;
+			padding: 5px 5px;
+		}
+
+		.secondselect {
+			margin: 0 auto;
+			border: none;
+		}
+
+		.secondform {
+			display: grid;
+			grid-template-columns: repeat(3, 40px);
+		}
+
+		.secondform .black {
+			width: 24px;
+			height: 24px;
+			gap: 0px;
+			opacity: 0px;
+			background: var(--Black, #101113);
+		}
+
+
+		.secondform .blue {
+			width: 24px;
+			height: 24px;
+			gap: 0px;
+			opacity: 0px;
+			background: var(--Active-2, #237780);
+		}
+
+
+		.secondform .orang {
+			width: 24px;
+			height: 24px;
+			gap: 0px;
+			opacity: 0px;
+			background: var(--Active-3, #D97706);
+		}
+
+		.thirdform {
+			width: 120px;
+			height: 32px;
+			padding: 5px 5px;
+		}
+
+		.thirdform {
+			display: grid;
+			grid-template-columns: repeat(3, 40px);
+		}
+
+		.thirdform .black {
+			width: 24px;
+			height: 24px;
+			gap: 0px;
+			opacity: 0px;
+			background: var(--Black, #101113);
+		}
+
+
+		.thirdform .blue {
+			width: 24px;
+			height: 24px;
+			gap: 0px;
+			opacity: 0px;
+			background: var(--Active-2, #237780);
+		}
+
+
+		.thirdform .orang {
+			width: 24px;
+			height: 24px;
+			gap: 0px;
+			opacity: 0px;
+			background: var(--Active-3, #D97706);
+		}
+	</style>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			var secondForm = document.querySelector(".secondform");
+			var divs = secondForm.querySelectorAll("div");
+			var selectedDiv = null; // Variable to store the currently selected div
+
+			divs.forEach(function (div) {
+				div.addEventListener("click", function () {
+					// Reset the border of the previously selected div (if any)
+					if (selectedDiv !== null) {
+						selectedDiv.style.border = "2px solid transparent";
+					}
+
+					// Set the border of the clicked div to yellow
+					div.style.border = "2px solid yellow";
+
+					// Update the selectedDiv variable to the clicked div
+					selectedDiv = div;
+				});
+			});
+		});
+
+		document.addEventListener("DOMContentLoaded", function () {
+			var secondForm = document.querySelector(".thirdform");
+			var divs = secondForm.querySelectorAll("div");
+			var selectedDiv = null; // Variable to store the currently selected div
+
+			divs.forEach(function (div) {
+				div.addEventListener("click", function () {
+					// Reset the border of the previously selected div (if any)
+					if (selectedDiv !== null) {
+						selectedDiv.style.border = "2px solid transparent";
+					}
+
+					// Set the border of the clicked div to yellow
+					div.style.border = "2px solid yellow";
+
+					// Update the selectedDiv variable to the clicked div
+					selectedDiv = div;
+				});
+			});
+		});
+	</script>
+
+
+</body>
+
+</html>
