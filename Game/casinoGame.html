@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slot Machine</title>
+</head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+
+    .slot-machine {
+        display: flex;
+        justify-content: center;
+    }
+
+    .slot {
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        margin: 0 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 24px;
+        animation: spin 1s infinite;
+    }
+
+    @keyframes spin {
+        0% {
+            transform: translateY(0);
+        }
+        50% {
+            transform: translateY(-50%);
+        }
+        100% {
+            transform: translateY(0);
+        }
+    }
+
+    #spin-button {
+        padding: 10px 20px;
+        margin-top: 20px;
+        font-size: 18px;
+        cursor: pointer;
+    }
+</style>
+
+<body>
+    <div class="container">
+        <div class="slot-machine">
+            <div id="slot1" class="slot"></div>
+            <div id="slot2" class="slot"></div>
+            <div id="slot3" class="slot"></div>
+            <button id="spin-button">SPIN</button>
+        </div>
+        <div id="result"></div>
+    </div>
+    <script>
+        const symbols = ['🍒', '🍇', '🍋', '🍊', '🍉', '🍍', '🍎'];
+
+        document.getElementById('spin-button').addEventListener('click', spinSlots);
+
+        function spinSlots() {
+            let results = [];
+
+            // Generate random symbols for each slot
+            for (let i = 0; i < 3; i++) {
+                const randomIndex = Math.floor(Math.random() * symbols.length);
+                results.push(symbols[randomIndex]);
+            }
+
+            // Display results
+            displayResults(results);
+        }
+
+        function displayResults(results) {
+            const slots = document.querySelectorAll('.slot');
+            for (let i = 0; i < slots.length; i++) {
+                slots[i].textContent = results[i];
+            }
+
+            // Check if all symbols are the same
+            if (results.every(symbol => symbol === results[0])) {
+                document.getElementById('result').textContent = 'You win!';
+            } else {
+                document.getElementById('result').textContent = 'Try again!';
+            }
+        }
+
+    </script>
+</body>
+
+</html>
