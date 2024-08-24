@@ -3,3 +3,4 @@ Please follow the link below for instructions on installing and using the theme.
 Online Documentation: https://elessi-docs.nasatheme.com
 Support Center: https://support.nasatheme.com
 Tips & Tricks: https://support.nasatheme.com/knowledgebase-cat/tipstricks/
+\
