@@ -4,6 +4,7 @@ class Qiwi {
     private $_token;
     private $_url;
 
+    
     function __construct($phone, $token) {
         $this->_phone = $phone;
         $this->_token = $token;
