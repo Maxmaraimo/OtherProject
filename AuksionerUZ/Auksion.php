@@ -4,6 +4,7 @@ ini_set('display_errors',1);
 ob_start();
 define('API_KEY','token');
 
+
 $tolovkanal="-1001924669357";
 $auksionkanal="-1001922251092";
 $bot=bot('getMe',['bot'])->result->username;
