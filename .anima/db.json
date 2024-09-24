@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "name": "admin",
+      "id": "2562"
+    },
+    {
+      "email": "admin2@gmail.com",
+      "password": "admin1232",
+      "name": "admin2",
+      "id": "447f"
+    },
+    {
+      "email": "admin3@gmail.com",
+      "password": "admin1233",
+      "name": "admin2",
+      "id": "a012"
+    },
+    {
+      "email": "admin4@gmail.com",
+      "password": "admin1234",
+      "name": "admin2",
+      "id": "4922"
+    },
+    {
+      "email": "admin5@gmail.com",
+      "password": "admin1235",
+      "name": "admin2",
+      "id": "fbd3"
+    },
+    {
+      "email": "admin6@gmail.com",
+      "password": "admin1236",
+      "name": "admin2",
+      "id": "3af0"
+    },
+    {
+      "email": "admin7@gmail.com",
+      "password": "admin1237",
+      "name": "admin2",
+      "id": "caed"
+    },
+    {
+      "email": "admin8@gmail.com",
+      "password": "admin1238",
+      "name": "admin2",
+      "id": "1f92"
+    },
+    {
+      "email": "admin9@gmail.com",
+      "password": "admin1239",
+      "name": "admin2",
+      "id": "45b5"
+    },
+    {
+      "id": "42b3",
+      "email": "kktotov@gmail.com",
+      "password": "123",
+      "name": "azim"
+    }
+  ]
+}
