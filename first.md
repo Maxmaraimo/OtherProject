@@ -2,6 +2,8 @@
 
 <img width='100%' src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF4500&background=282C34&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ozodbek;I+am+a+Web+Developer." alt="Typing SVG" />
 
+<img width='100%' src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=FF4500&background=282C34&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mukumov Ozodbek;I+am+a+web+developer." alt="Typing SVG" />
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=alisherxujanov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
