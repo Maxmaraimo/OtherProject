@@ -1,79 +1,790 @@
 <!DOCTYPE html>
-<html lang=en>
+<html lang="ru">
 
 <head>
-  <meta charset=utf-8>
-  <meta http-equiv=Access-Control-Allow-Origin content=*>
-  <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
-  <meta http-equiv=Expires content=0>
-  <meta http-equiv=Pragma content=no-cache>
-  <meta http-equiv=Cache-control content=no-cache>
-  <meta http-equiv=Cache content=no-cache>
-  <meta name=renderer content=webkit>
-  <meta name=format-detection content="telephone=no">
-  <meta name=msapplication-tap-highlight content=no>
-  <meta name=viewport
-    content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,viewport-fit=cover">
-  <meta name=format-detection content="telphone=no, email=no">
-  <meta name=HandheldFriendly content=true>
-  <meta name=MobileOptimized content=320>
-  <meta name=screen-orientation content=portrait>
-  <meta name=full-screen content=yes>
-  <meta name=x5-orientation content=portrait>
-  <meta name=x5-fullscreen content=true>
-  <meta name=x5-page-mode content=app>
-  <meta name=msapplication-tap-highlight content=no>
-  <link rel=icon href=./favicon.ico>
-  <title></title>
-  <script>let tmpUrl = '';
-    if ("undefined" == typeof appUrl) {
-      tmpUrl = window.location.origin;
-      if (tmpUrl == "http://localhost:8081" || tmpUrl == 'http://45.249.246.78') {
-        tmpUrl = "https://whats06.com"
-      }
-    } else {
-      tmpUrl = appUrl;
-    }
-    const ApiUrl = tmpUrl;
-
-    const Language = 'uz';
-    if (localStorage.getItem("Language")) {
-
-    } else {
-      localStorage['Language'] = 'uz';
-      localStorage['is_self_change'] = 1
-    }
-    const UpdateUrl = ["http://103.106.202.53:10086/income_app/income_update.php", "http://bigw123.com/income_app/income_update.php"]
-
-    let tmpAreaList = '';
-    if ("undefined" == typeof areaListConfig) {
-      tmpAreaList = [{
-        id: "",
-        name: ""
-      }]
-
-    } else {
-      tmpAreaList = areaListConfig;
-    }
-    const areaList = tmpAreaList;
-
-    const langList = [{
-      lang: "en-US",
-      title: "English"
-    },
-    {
-      lang: "zh-CN",
-      title: "简体中文"
-    }
-    ]</script>
-  <link href=./static/css/app.e2a1e4fc578c4d35c427eb812724d42a.css rel=stylesheet>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prof Dentist — Стоматологическая клиника в Самарканде</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 
-<body><noscript><strong>We're sorry but this web doesn't work properly without JavaScript enabled. Please enable it to
-      continue.</strong></noscript>
-  <div id=app></div>
-  <script type=text/javascript src=./static/js/manifest.b47a6a23478b66c35122.js></script>
-  <script type=text/javascript src=./static/js/app.6db9f0f23e5ec6fe6e93.js></script>
+<body>
+
+  <!-- НАВИГАЦИЯ -->
+  <nav class="navbar">
+    <div class="logo">
+      <i class="fas fa-tooth"></i> Prof<span class="thin">dentist</span>
+    </div>
+    <ul class="nav-menu" id="navMenu">
+      <li data-scroll="hero" data-ru="Главная" data-uz="Asosiy">Главная</li>
+      <li data-scroll="about" data-ru="О нас" data-uz="Biz haqimizda">О нас</li>
+      <li data-scroll="services" data-ru="Услуги" data-uz="Xizmatlar">Услуги</li>
+      <li data-scroll="contacts" data-ru="Контакты" data-uz="Aloqa">Контакты</li>
+    </ul>
+    <div class="nav-right">
+      <button id="langToggle" class="lang-btn">RU / UZ</button>
+      <a href="tel:+998906780477" class="btn-primary appointment-btn" data-ru="Записаться"
+        data-uz="Yozilish">Записаться</a>
+      <div class="burger" id="burgerMenu">
+        <span></span><span></span><span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO СЕКЦИЯ (Снимок 06-07-26 в 18.37.jpg) -->
+  <header class="hero" id="hero">
+    <div class="hero-container">
+      <div class="avatar-group scroll-anim">
+        <div class="avatars">
+          <img src="https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=100&q=80"
+            alt="">
+          <img src="https://images.unsplash.com/photo-1537368910025-700350fe46c7?auto=format&fit=crop&w=100&q=80"
+            alt="">
+          <img src="https://images.unsplash.com/photo-1594824813573-246434e33963?auto=format&fit=crop&w=100&q=80"
+            alt="">
+        </div>
+        <span class="patients-count" data-ru="Более 500+ довольных пациентов"
+          data-uz="500 dan ortiq mamnun bemorlar">Более 500+ довольных пациентов</span>
+      </div>
+
+      <h1 class="scroll-anim" data-ru="Ваша здоровая улыбка — наша профессия"
+        data-uz="Sizning sog'lom tabassumingiz — bizning kasbimiz">Ваша здоровая улыбка — наша профессия</h1>
+      <p class="hero-subtitle scroll-anim"
+        data-ru="Профессиональная стоматология в Самарканде. Индивидуальный подход, безболезненное лечение и стерильная чистота для каждого пациента."
+        data-uz="Samarqanddagi professional stomatologiya. Har bir bemorga individual yondashuv, og'riqsiz davolash va steril tozalik.">
+        Профессиональная стоматология в Самарканде. Индивидуальный подход, безболезненное лечение и стерильная чистота
+        для каждого пациента.</p>
+
+      <div class="hero-buttons scroll-anim">
+        <a href="#contacts" class="btn-primary large" data-ru="Записаться на прием"
+          data-uz="Qabulga yozilish">Записаться на прием</a>
+        <a href="tel:+998906780477" class="btn-secondary large" data-ru="Позвонить сейчас"
+          data-uz="Hozir qo'ng'iroq qilish">Позвонить сейчас</a>
+      </div>
+    </div>
+
+    <!-- Бегущая строка из имен внизу Hero -->
+    <div class="marquee">
+      <div class="marquee-track">
+        <span>Мадина</span><span>Рустам</span><span>Саида</span><span>Ахмед</span><span>Мадина</span><span>Рустам</span><span>Саида</span><span>Ахмед</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- СЕКЦИЯ О НАС (Снимок 06-07-26 в 18.37 (1).jpg) -->
+  <section class="about section" id="about">
+    <div class="container about-grid">
+      <div class="about-text scroll-anim">
+        <h2
+          data-ru="Мы стремимся сделать визит к стоматологу максимально комфортным и безопасным. Наши специалисты используют передовые технологии для сохранения вашего здоровья."
+          data-uz="Biz stomatologga tashrifingizni iloji boricha qulay va xavfsiz qilishga intilamiz. Bizning mutaxassislar salomatligingizni saqlash uchun ilg'or texnologiyalardan foydalanadirlar.">
+          Мы стремимся сделать визит к стоматологу максимально комфортным и безопасным. Наши специалисты используют
+          передовые технологии для сохранения вашего здоровья.</h2>
+        <p class="about-subtext" data-ru="Команда Prof dentist • Стоматологическая клиника в Самарканде"
+          data-uz="Prof dentist jamoasi • Samarqanddagi stomatologiya klinikasi">Команда Prof dentist •
+          Стоматологическая клиника в Самарканде</p>
+      </div>
+      <div class="about-image scroll-anim">
+        <!-- Вставь сюда реальное фото доктора с ребенком -->
+        <img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=800&q=80"
+          alt="Prof Dentist Team">
+      </div>
+    </div>
+  </section>
+
+  <!-- СЕКЦИЯ УСЛУГ (Снимок 06-07-26 в 18.37 (2).jpg) -->
+  <section class="services section" id="services">
+    <div class="container">
+      <div class="section-header scroll-anim">
+        <h2 data-ru="Полный спектр стоматологической помощи" data-uz="Stomatologik yordamning to'liq spektri">Полный
+          спектр стоматологической помощи</h2>
+        <p data-ru="Мы предлагаем современные методы лечения для сохранения красоты и здоровья ваших зубов."
+          data-uz="Biz tishlaringizning go'zalligi va salomatligini saqlash uchun zamonaviy davolash usullarini taklif etamiz.">
+          Мы предлагаем современные методы лечения для сохранения красоты и здоровья ваших зубов.</p>
+      </div>
+
+      <div class="services-grid">
+        <!-- Карточка 1 -->
+        <div class="service-card scroll-anim">
+          <div class="service-info">
+            <h3 data-ru="Безболезненное удаление" data-uz="Og'riqsiz tish olish">Безболезненное удаление</h3>
+            <div class="tags">
+              <span data-ru="хирургия" data-uz="jarrohlik">хирургия</span>
+              <span data-ru="безопасность" data-uz="xavfsizlik">безопасность</span>
+            </div>
+            <p data-ru="Комфортное и безопасное удаление зубов любой сложности с применением современных анестетиков."
+              data-uz="Zamonaviy anestetiklar yordamida har qanday murakkablikdagi tishlarni qulay va xavfsiz olib tashlash.">
+              Комфортное и безопасное удаление зубов любой сложности с применением современных анестетиков.</p>
+          </div>
+          <div class="service-img">
+            <img src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=500&q=80"
+              alt="">
+          </div>
+        </div>
+
+        <!-- Карточка 2 -->
+        <div class="service-card scroll-anim">
+          <div class="service-info">
+            <h3 data-ru="Имплантация зубов" data-uz="Tish implantatsiyasi">Имплантация зубов</h3>
+            <div class="tags">
+              <span data-ru="премиум" data-uz="premium">премиум</span>
+              <span data-ru="гарантия" data-uz="kafolat">гарантия</span>
+            </div>
+            <p data-ru="Восстановление зубов премиальными имплантами с пожизненной гарантией от ведущих мировых брендов."
+              data-uz="Dunyoning yetakchi brendlaridan umrbod kafolatli premium implantlar bilan tishlarni tiklash.">
+              Восстановление зубов премиальными имплантами с пожизненной гарантией от ведущих мировых брендов.</p>
+          </div>
+          <div class="service-img">
+            <img src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=500&q=80"
+              alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- КОНТАКТЫ И ЗАПИСЬ -->
+  <section class="contacts section" id="contacts">
+    <div class="container contacts-grid">
+      <div class="contact-form-box scroll-anim">
+        <h2 data-ru="Запишитесь на бесплатную консультацию" data-uz="Bepul konsultatsiyaga yoziling">Запишитесь на
+          бесплатную консультацию</h2>
+        <form id="appointmentForm">
+          <input type="text" placeholder="Ваше имя / Ismingiz" required>
+          <input type="tel" placeholder="+998 (__) ___-__-__" required>
+          <button type="submit" class="btn-primary" data-ru="Отправить заявку" data-uz="Ariza yuborish">Отправить
+            заявку</button>
+        </form>
+      </div>
+      <div class="contact-info-box scroll-anim">
+        <h3 data-ru="Контакты клиники" data-uz="Klinika aloqa ma'lumotlari">Контакты клиники</h3>
+        <p><i class="fas fa-map-marker-alt"></i> Samarqand, Rudakiy ko'chasi 116</p>
+        <p><i class="fas fa-phone"></i> +998 90 678 04 77</p>
+        <p><i class="fas fa-clock"></i> 09:00 - 22:00</p>
+        <!-- Интеграция мини-карты -->
+        <div class="map-container">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3071.6499967691645!2d66.9248408!3d39.6575239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f4d1912959654d3%3A0x6b107e3a9c78b4!2sRudaki%20St%20116%2C%20Samarkand%20140100!5e0!3m2!1sen!2suz!4v1710000000000!5m2!1sen!2suz"
+            allowfullscreen="" loading="lazy"></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+      // 1. ПЕРЕКЛЮЧЕНИЕ ЯЗЫКА (RU / UZ)
+      const langToggle = document.getElementById('langToggle');
+      const elementsToTranslate = document.querySelectorAll('[data-ru]');
+      let currentLang = 'ru';
+
+      langToggle.addEventListener('click', () => {
+        currentLang = currentLang === 'ru' ? 'uz' : 'ru';
+
+        elementsToTranslate.forEach(el => {
+          const translation = el.getAttribute(`data-${currentLang}`);
+          if (translation) {
+            // Если элемент input (плейсхолдер)
+            if (el.tagName === 'INPUT') {
+              el.placeholder = translation;
+            } else {
+              el.innerText = translation;
+            }
+          }
+        });
+
+        langToggle.innerText = currentLang === 'ru' ? 'RU / UZ' : 'UZ / RU';
+      });
+
+      // 2. МОБИЛЬНОЕ БУРГЕР МЕНЮ
+      const burgerMenu = document.getElementById('burgerMenu');
+      const navMenu = document.getElementById('navMenu');
+      const navLinks = document.querySelectorAll('.nav-menu li');
+
+      burgerMenu.addEventListener('click', () => {
+        burgerMenu.classList.toggle('active');
+        navMenu.classList.toggle('active');
+      });
+
+      // Закрытие меню при клике по ссылкам
+      navLinks.forEach(link => {
+        link.addEventListener('click', () => {
+          burgerMenu.classList.remove('active');
+          navMenu.classList.remove('active');
+
+          // Плавный скролл к секции
+          const targetId = link.getAttribute('data-scroll');
+          const targetSection = document.getElementById(targetId);
+          if (targetSection) {
+            targetSection.scrollIntoView({ behavior: 'smooth' });
+          }
+        });
+      });
+
+      // 3. ПЛАВНЫЕ АНИМАЦИИ ПРИ СКРОЛЛЕ (AOS-эффект вручную)
+      const animElements = document.querySelectorAll('.scroll-anim');
+
+      const checkScroll = () => {
+        const triggerBottom = window.innerHeight / 5 * 4; // Точка срабатывания анимации
+
+        animElements.forEach(el => {
+          const boxTop = el.getBoundingClientRect().top;
+
+          if (boxTop < triggerBottom) {
+            el.classList.add('active');
+          }
+        });
+      };
+
+      // Запускаем проверку при скролле и сразу при загрузке страницы
+      window.addEventListener('scroll', checkScroll);
+      checkScroll();
+
+      // 4. ДЕМО-ОТПРАВКА ФОРМЫ
+      const form = document.getElementById('appointmentForm');
+      form.addEventListener('submit', (e) => {
+        e.preventDefault();
+        alert(currentLang === 'ru' ? 'Спасибо! Мы свяжемся с вами в ближайшее время.' : 'Rahmat! Tez orada siz bilan bog\'lanamiz.');
+        form.reset();
+      });
+    });
+  </script>
+  
+  
 </body>
+<style>
+  :root {
+    --primary-blue: #092347;
+    /* Глубокий благородный синий для текста */
+    --accent-blue: #1d63b8;
+    /* Премиальный синий для кнопок */
+    --bg-light: #f6f8fa;
+    --text-dark: #0f172a;
+    --radius-lg: 24px;
+    --radius-sm: 12px;
+    --transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background-color: var(--bg-light);
+    color: var(--text-dark);
+    overflow-x: hidden;
+  }
+
+  /* ШАПКА В СТИЛЕ SAFARI / MAC */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 5%;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  }
+
+  .logo {
+    font-size: 24px;
+    font-weight: 800;
+    color: var(--primary-blue);
+    display: flex;
+    align-items: center;
+  }
+
+  .logo i {
+    color: var(--accent-blue);
+    margin-right: 8px;
+  }
+
+  .logo .thin {
+    font-weight: 300;
+  }
+
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    gap: 35px;
+  }
+
+  .nav-menu li {
+    font-size: 15px;
+    font-weight: 500;
+    color: #475569;
+    cursor: pointer;
+    transition: var(--transition);
+  }
+
+  .nav-menu li:hover {
+    color: var(--accent-blue);
+  }
+
+  .nav-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .lang-btn {
+    background: none;
+    border: 1px solid #cbd5e1;
+    border-radius: 30px;
+    padding: 6px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition);
+  }
+
+  .lang-btn:hover {
+    background: #f1f5f9;
+  }
+
+  /* КНОПКИ */
+  .btn-primary {
+    background: var(--accent-blue);
+    color: white;
+    padding: 12px 28px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: var(--transition);
+    display: inline-block;
+  }
+
+  .btn-primary:hover {
+    background: var(--primary-blue);
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(29, 99, 184, 0.2);
+  }
+
+  .btn-secondary {
+    background: white;
+    color: var(--primary-blue);
+    padding: 12px 28px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    border: 1px solid #cbd5e1;
+    transition: var(--transition);
+    display: inline-block;
+  }
+
+  .btn-secondary:hover {
+    background: #f8fafc;
+    transform: translateY(-2px);
+  }
+
+  /* HERO (ЭКРАН 1) */
+  .hero {
+    background: white;
+    padding: 120px 20px 80px 20px;
+    text-align: center;
+    position: relative;
+  }
+
+  .hero-container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .avatar-group {
+    display: inline-flex;
+    align-items: center;
+    background: #f8fafc;
+    padding: 8px 20px;
+    border-radius: 50px;
+    margin-bottom: 30px;
+  }
+
+  .avatars {
+    display: flex;
+    margin-right: 12px;
+  }
+
+  .avatars img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin-right: -10px;
+    object-fit: cover;
+  }
+
+  .patients-count {
+    font-size: 14px;
+    font-weight: 500;
+    color: #64748b;
+  }
+
+  .hero h1 {
+    font-size: 64px;
+    font-weight: 800;
+    color: var(--primary-blue);
+    line-height: 1.1;
+    letter-spacing: -1px;
+    margin-bottom: 25px;
+  }
+
+  .hero-subtitle {
+    font-size: 19px;
+    color: #475569;
+    line-height: 1.6;
+    max-width: 700px;
+    margin: 0 auto 40px auto;
+  }
+
+  .hero-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 60px;
+  }
+
+  .btn-primary.large,
+  .btn-secondary.large {
+    padding: 16px 36px;
+    font-size: 16px;
+  }
+
+  /* БЕГУЩАЯ СТРОКА */
+  .marquee {
+    overflow: hidden;
+    white-space: nowrap;
+    background: #f8fafc;
+    padding: 20px 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border-top: 1px solid #e2e8f0;
+  }
+
+  .marquee-track {
+    display: inline-block;
+    animation: marquee 20s linear infinite;
+  }
+
+  .marquee-track span {
+    font-size: 16px;
+    font-weight: 600;
+    color: #94a3b8;
+    margin: 0 40px;
+    background: white;
+    padding: 8px 24px;
+    border-radius: 40px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.02);
+  }
+
+  @keyframes marquee {
+    0% {
+      transform: translate3d(0, 0, 0);
+    }
+
+    100% {
+      transform: translate3d(-50%, 0, 0);
+    }
+  }
+
+  /* ОБЩИЕ СЕКЦИИ */
+  .section {
+    padding: 100px 5%;
+  }
+
+  /* ОБ АВТОРЕ / КЛИНИКЕ (ЭКРАН 2) */
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1.2s 1fr;
+    gap: 60px;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .about-text h2 {
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--primary-blue);
+    margin-bottom: 20px;
+  }
+
+  .about-subtext {
+    font-size: 14px;
+    color: #64748b;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .about-image img {
+    width: 100%;
+    border-radius: var(--radius-lg);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.05);
+    object-fit: cover;
+    max-height: 500px;
+  }
+
+  /* УСЛУГИ (ЭКРАН 3) */
+  .section-header {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 60px auto;
+  }
+
+  .section-header h2 {
+    font-size: 44px;
+    color: var(--primary-blue);
+    margin-bottom: 15px;
+    font-weight: 800;
+  }
+
+  .section-header p {
+    color: #475569;
+    font-size: 18px;
+  }
+
+  .services-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .service-card {
+    background: white;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
+    transition: var(--transition);
+  }
+
+  .service-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.06);
+  }
+
+  .service-info {
+    padding: 40px;
+  }
+
+  .service-info h3 {
+    font-size: 28px;
+    color: var(--primary-blue);
+    margin-bottom: 15px;
+    font-weight: 700;
+  }
+
+  .tags {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .tags span {
+    background: #f1f5f9;
+    color: #475569;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 6px 14px;
+    border-radius: 20px;
+    text-transform: uppercase;
+  }
+
+  .service-info p {
+    color: #64748b;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .service-img img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+  }
+
+  /* КОНТАКТЫ */
+  .contacts-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .contact-form-box {
+    background: white;
+    padding: 50px;
+    border-radius: var(--radius-lg);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
+  }
+
+  .contact-form-box h2 {
+    font-size: 32px;
+    color: var(--primary-blue);
+    margin-bottom: 30px;
+    font-weight: 700;
+  }
+
+  #appointmentForm {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  #appointmentForm input {
+    width: 100%;
+    padding: 16px;
+    border: 1px solid #cbd5e1;
+    border-radius: var(--radius-sm);
+    font-size: 16px;
+    outline: none;
+    transition: var(--transition);
+  }
+
+  #appointmentForm input:focus {
+    border-color: var(--accent-blue);
+    box-shadow: 0 0 0 4px rgba(29, 99, 184, 0.1);
+  }
+
+  .contact-info-box h3 {
+    font-size: 28px;
+    color: var(--primary-blue);
+    margin-bottom: 25px;
+  }
+
+  .contact-info-box p {
+    font-size: 16px;
+    color: #475569;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .contact-info-box i {
+    color: var(--accent-blue);
+    width: 20px;
+  }
+
+  .map-container {
+    width: 100%;
+    height: 250px;
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    margin-top: 30px;
+  }
+
+  .map-container iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+
+  /* МОБИЛЬНОЕ БУРГЕР МЕНЮ */
+  .burger {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+  }
+
+  .burger span {
+    width: 25px;
+    height: 2px;
+    background: var(--primary-blue);
+    transition: var(--transition);
+  }
+
+  /* КЛАССЫ ДЛЯ АНИМАЦИИ ПРИ СКРОЛЛЕ */
+  .scroll-anim {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .scroll-anim.active {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* АДАПТИВНОСТЬ ПОД ТЕЛЕФОНЫ */
+  @media (max-width: 968px) {
+    .hero h1 {
+      font-size: 42px;
+    }
+
+    .about-grid,
+    .services-grid,
+    .contacts-grid {
+      grid-template-columns: 1fr;
+      gap: 40px;
+    }
+
+    .navbar {
+      padding: 15px 20px;
+    }
+
+    .nav-menu {
+      position: fixed;
+      top: 73px;
+      left: -100%;
+      width: 100%;
+      height: calc(100vh - 73px);
+      background: white;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 50px;
+      transition: var(--transition);
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+    }
+
+    .nav-menu.active {
+      left: 0;
+    }
+
+    .burger {
+      display: flex;
+    }
+
+    .appointment-btn {
+      display: none;
+    }
+
+    /* Скрываем на мобилках мелкую кнопку */
+
+    /* Анимация бургера */
+    .burger.active span:nth-child(1) {
+      transform: rotate(45deg) translate(5px, 5px);
+    }
+
+    .burger.active span:nth-child(2) {
+      opacity: 0;
+    }
+
+    .burger.active span:nth-child(3) {
+      transform: rotate(-45deg) translate(5px, -5px);
+    }
+  }
+</style>
 
 </html>
