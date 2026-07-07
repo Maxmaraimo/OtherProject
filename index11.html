@@ -1,26 +1,92 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>ProfDentist | Премиальная стоматология в Самарканде</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <style>
+        :root { --main-blue: #092347; --accent: #1d63b8; --white: #ffffff; --gray: #f4f7f6; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Inter', sans-serif; background: var(--gray); color: var(--main-blue); line-height: 1.6; }
+
+        /* Шапка */
+        nav { padding: 30px 10%; display: flex; justify-content: space-between; align-items: center; position: sticky; top: 0; background: rgba(255,255,255,0.95); z-index: 1000; border-bottom: 1px solid #eee; }
+        
+        /* Главный экран */
+        .hero { padding: 120px 10%; background: var(--white); text-align: center; }
+        .hero h1 { font-size: 64px; font-weight: 800; margin-bottom: 20px; }
+        
+        /* Секции */
+        .section { padding: 100px 10%; }
+        .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; }
+        .card { background: var(--white); padding: 50px; border-radius: 30px; box-shadow: 0 20px 40px rgba(0,0,0,0.05); transition: 0.4s; }
+        .card:hover { transform: translateY(-20px); box-shadow: 0 30px 60px rgba(0,0,0,0.1); }
+
+        /* Кнопки и формы */
+        .btn { padding: 20px 40px; background: var(--accent); color: white; border-radius: 50px; border: none; font-weight: 600; cursor: pointer; font-size: 16px; }
+        input { width: 100%; padding: 20px; margin-bottom: 20px; border-radius: 15px; border: 1px solid #ddd; font-size: 16px; }
+
+        /* Футер */
+        footer { background: var(--main-blue); color: white; padding: 80px 10%; text-align: center; }
+        
+        /* Анимации */
+        .fade-in { opacity: 0; transform: translateY(50px); transition: 0.8s; }
+        .visible { opacity: 1; transform: translateY(0); }
+    </style>
 </head>
 <body>
-    <div>
-        <p>Hello world</p>
-    </div>
-    <button>Hello world</button>
-    
+
+    <nav>
+        <div style="font-size: 24px; font-weight: 800;">Prof<span style="font-weight: 300;">Dentist</span></div>
+        <a href="#booking" class="btn">Записаться</a>
+    </nav>
+
+    <header class="hero">
+        <h1 class="fade-in">Ваша здоровая улыбка — наша профессия</h1>
+        <p class="fade-in" style="font-size: 20px; color: #666; max-width: 600px; margin: 0 auto 40px;">Профессиональная стоматология в Самарканде. Стерильность, технологии и комфорт.</p>
+    </header>
+
+    <section class="section">
+        <div class="grid">
+            <div class="card fade-in"><h3>Стерильность</h3><p>Используем передовое оборудование для полной дезинфекции.</p></div>
+            <div class="card fade-in"><h3>Экспертность</h3><p>Врачи с опытом работы более 10 лет в лучших клиниках.</p></div>
+            <div class="card fade-in"><h3>Без боли</h3><p>Применяем лучшие методы анестезии для вашего комфорта.</p></div>
+        </div>
+    </section>
+
+    <section id="booking" class="section" style="background: var(--white);">
+        <div style="max-width: 500px; margin: 0 auto;">
+            <h2>Записаться на прием</h2>
+            <form id="tgForm" style="margin-top: 30px;">
+                <input type="text" id="name" placeholder="Ваше имя" required>
+                <input type="tel" id="phone" placeholder="Ваш номер телефона" required>
+                <button type="submit" class="btn" style="width: 100%;">Отправить в Telegram</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>Самарканд, ул. Рудаки 116 | +998 90 678 04 77</p>
+        <p style="margin-top: 20px; font-size: 14px; opacity: 0.6;">© 2026 ProfDentist. Все права защищены.</p>
+    </footer>
+
+    <script>
+        // Анимация при скролле
+        const observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => { if(entry.isIntersecting) entry.target.classList.add('visible'); });
+        });
+        document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+        // Telegram Bot
+        document.getElementById('tgForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const token = 'ТВОЙ_ТОКЕН';
+            const chat_id = 'ТВОЙ_ID';
+            const text = `Заявка с сайта: ${document.getElementById('name').value}, тел: ${document.getElementById('phone').value}`;
+            await fetch(`https://api.telegram.org/bot${token}/sendMessage?chat_id=${chat_id}&text=${encodeURIComponent(text)}`);
+            alert('Заявка принята!');
+        });
+    </script>
 </body>
-<style>
-    p {
-        color: red;
-        background-color: black;
-    }
-    button {
-        border-radius: 50px;
-        color: red;
-        background-color: blue;
-    }
-</style>
 </html>
